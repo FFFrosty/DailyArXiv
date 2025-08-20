@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 20, 2025
+title: Latest 15 Papers - August 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,28 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Causally-Guided Pairwise Transformer -- Towards Foundational Digital Twins in Process Industry](http://arxiv.org/abs/2508.13111v1)** | 2025-08-18 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 4 tables</p></details> |
-| **[Hierarchical Evaluation Function (HEF): A Multi-Metric Approach for Optimizing Demand Forecasting Models](http://arxiv.org/abs/2508.13057v1)** | 2025-08-18 | <details><summary>31 pa...</summary><p>31 pages, 15 figures, 110 tables. Submitted as a preprint. The manuscript introduces the Hierarchical Evaluation Function (HEF), a multi-metric framework for optimizing demand forecasting models under high uncertainty. Includes extensive experimental validation using real-world datasets and a comparative analysis against classical and modern methods</p></details> |
-| **[Time Series Analysis in Frequency Domain: A Survey of Open Challenges, Opportunities and Benchmarks](http://arxiv.org/abs/2504.07099v3)** | 2025-08-18 | 35 pages |
-| **[Dynamic Latent Class Structural Equation Modeling: A Hands-On Tutorial for Modeling Intensive Longitudinal Data](http://arxiv.org/abs/2508.12983v1)** | 2025-08-18 | 31 pages, 13 figures |
-| **[A self-supervised learning approach for denoising autoregressive models with additive noise: finite and infinite variance cases](http://arxiv.org/abs/2508.12970v1)** | 2025-08-18 | 32 pages, 17 figures |
-| **[The path to a goal: Understanding soccer possessions via path signatures](http://arxiv.org/abs/2508.12930v1)** | 2025-08-18 |  |
-| **[HRS: Hybrid Representation Framework with Scheduling Awareness for Time Series Forecasting in Crowdsourced Cloud-Edge Platforms](http://arxiv.org/abs/2508.12839v1)** | 2025-08-18 | <details><summary>10 pa...</summary><p>10 pages, 14 figures, ECAI2025</p></details> |
-| **[A Novel Approach for Estimating Largest Lyapunov Exponents in One-Dimensional Chaotic Time Series Using Machine Learning](http://arxiv.org/abs/2507.04868v2)** | 2025-08-18 | <details><summary>18 pa...</summary><p>18 pages, 5 figures, 2 Tables, 14 Equations</p></details> |
-| **[On the Importance of Behavioral Nuances: Amplifying Non-Obvious Motor Noise Under True Empirical Considerations May Lead to Briefer Assays and Faster Classification Processes](http://arxiv.org/abs/2508.12742v1)** | 2025-08-18 | <details><summary>This ...</summary><p>This paper is under review in IEEE Transactions on Affective Computing</p></details> |
-| **[SpikeSTAG: Spatial-Temporal Forecasting via GNN-SNN Collaboration](http://arxiv.org/abs/2508.02069v2)** | 2025-08-18 | 9 pages, 4 figures |
-| **[TFB: Towards Comprehensive and Fair Benchmarking of Time Series Forecasting Methods](http://arxiv.org/abs/2403.20150v4)** | 2025-08-18 | <details><summary>Direc...</summary><p>Directly accepted by PVLDB 2024, VLDB Best Research Paper Award Nomination 2024</p></details> |
-| **[Data-driven particle dynamics: Structure-preserving coarse-graining for emergent behavior in non-equilibrium systems](http://arxiv.org/abs/2508.12569v1)** | 2025-08-18 | 34 pages, 12 figures |
-| **[Deep Learning-Based Financial Time Series Forecasting via Sliding Window and Variational Mode Decomposition](http://arxiv.org/abs/2508.12565v1)** | 2025-08-18 |  |
-| **[Sparsity of the Main Effect Matrix Factor Model](http://arxiv.org/abs/2508.12510v1)** | 2025-08-17 | 43 pages, 7 figures |
-| **[European Space Agency Benchmark for Anomaly Detection in Satellite Telemetry](http://arxiv.org/abs/2406.17826v2)** | 2025-08-17 | <details><summary>87 pa...</summary><p>87 pages, 24 figures, 19 tables</p></details> |
+| **[Structured Agentic Workflows for Financial Time-Series Modeling with LLMs and Reflective Feedback](http://arxiv.org/abs/2508.13915v1)** | 2025-08-19 |  |
+| **[Automated Energy-Aware Time-Series Model Deployment on Embedded FPGAs for Resilient Combined Sewer Overflow Management](http://arxiv.org/abs/2508.13905v1)** | 2025-08-19 | <details><summary>6 pag...</summary><p>6 pages, 6 figures, 1 table, accepted by the 11th IEEE International Smart Cities Conference</p></details> |
+| **[Multimodal Data Storage and Retrieval for Embodied AI: A Survey](http://arxiv.org/abs/2508.13901v1)** | 2025-08-19 |  |
+| **[Joint Problems in Learning Multiple Dynamical Systems](http://arxiv.org/abs/2311.02181v4)** | 2025-08-19 |  |
+| **[SSD-TS: Exploring the Potential of Linear State Space Models for Diffusion Models in Time Series Imputation](http://arxiv.org/abs/2410.13338v2)** | 2025-08-19 | KDD' 25 |
+| **[On the reconstruction limits of complex networks](http://arxiv.org/abs/2501.01437v3)** | 2025-08-19 |  |
+| **[PENGUIN: Enhancing Transformer with Periodic-Nested Group Attention for Long-term Time Series Forecasting](http://arxiv.org/abs/2508.13773v1)** | 2025-08-19 |  |
+| **[FlowState: Sampling Rate Invariant Time Series Forecasting](http://arxiv.org/abs/2508.05287v2)** | 2025-08-19 | <details><summary>Curre...</summary><p>Currently under review</p></details> |
+| **[HRS: Hybrid Representation Framework with Scheduling Awareness for Time Series Forecasting in Crowdsourced Cloud-Edge Platforms](http://arxiv.org/abs/2508.12839v2)** | 2025-08-19 | <details><summary>10 pa...</summary><p>10 pages, 14 figures, ECAI2025</p></details> |
+| **[Simulation of extreme functionals in meteoceanic data: Application to surge evolution over tidal cycles](http://arxiv.org/abs/2508.13687v1)** | 2025-08-19 |  |
+| **[Dynamics-Informed Reservoir Computing with Visibility Graphs](http://arxiv.org/abs/2507.19046v2)** | 2025-08-19 | <details><summary>7 pag...</summary><p>7 pages, 5 figures. The following article has been submitted to by Chaos: An Interdisciplinary Journal of Nonlinear Science</p></details> |
+| **[Comparative Analysis of Time Series Foundation Models for Demographic Forecasting: Enhancing Predictive Accuracy in US Population Dynamics](http://arxiv.org/abs/2508.11680v2)** | 2025-08-19 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 3 tables</p></details> |
+| **[Conditionally specified graphical modeling of stationary multivariate time series](http://arxiv.org/abs/2508.13572v1)** | 2025-08-19 |  |
+| **[MedKGent: A Large Language Model Agent Framework for Constructing Temporally Evolving Medical Knowledge Graph](http://arxiv.org/abs/2508.12393v2)** | 2025-08-19 |  |
+| **[Simultaneous inference for monotone and smoothly time-varying functions under complex temporal dynamics](http://arxiv.org/abs/2310.02177v4)** | 2025-08-19 |  |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Structured Prompting and Multi-Agent Knowledge Distillation for Traffic Video Interpretation and Risk Inference](http://arxiv.org/abs/2508.13439v1)** | 2025-08-19 | <details><summary>16 pa...</summary><p>16 pages, 10 figures, 1 table</p></details> |
+| **[STPFormer: A State-of-the-Art Pattern-Aware Spatio-Temporal Transformer for Traffic Forecasting](http://arxiv.org/abs/2508.13433v1)** | 2025-08-19 |  |
+| **[Towards Vision Zero: The TUM Traffic Accid3nD Dataset](http://arxiv.org/abs/2503.12095v2)** | 2025-08-18 | <details><summary>Accep...</summary><p>Accepted for the IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)</p></details> |
 | **[SocialTrack: Multi-Object Tracking in Complex Urban Traffic Scenes Inspired by Social Behavior](http://arxiv.org/abs/2508.12777v1)** | 2025-08-18 |  |
 | **[Argos: A Decentralized Federated System for Detection of Traffic Signs in CAVs](http://arxiv.org/abs/2508.12712v1)** | 2025-08-18 | 7 pages, 10 figures |
 | **[RIFT: Closed-Loop RL Fine-Tuning for Realistic and Controllable Traffic Simulation](http://arxiv.org/abs/2505.03344v2)** | 2025-08-18 |  |
@@ -38,13 +41,16 @@ labels: documentation
 | **[AirTrafficGen: Configurable Air Traffic Scenario Generation with Large Language Models](http://arxiv.org/abs/2508.02269v2)** | 2025-08-15 | <details><summary>9 pag...</summary><p>9 pages and appendices</p></details> |
 | **[Traffic Intersection Simulation Using Turning Movement Count Data in SUMO: A Case Study of Toronto Intersections](http://arxiv.org/abs/2508.10733v1)** | 2025-08-14 | <details><summary>Publi...</summary><p>Published in 2025 21st DCOSS-IoT, Code is available at Github: https://github.com/ANTS-OntarioTechU/CrossFlow</p></details> |
 | **[Beyond conventional vision: RGB-event fusion for robust object detection in dynamic traffic scenarios](http://arxiv.org/abs/2508.10704v1)** | 2025-08-14 |  |
-| **[Gaze-Based Indicators of Driver Cognitive Distraction: Effects of Different Traffic Conditions and Adaptive Cruise Control Use](http://arxiv.org/abs/2508.10624v1)** | 2025-08-14 |  |
-| **[Are Electrodermal Activity-Based Indicators of Driver Cognitive Distraction Robust to Varying Traffic Conditions and Adaptive Cruise Control Use?](http://arxiv.org/abs/2508.10620v1)** | 2025-08-14 |  |
-| **[M3-Net: A Cost-Effective Graph-Free MLP-Based Model for Traffic Prediction](http://arxiv.org/abs/2508.08543v2)** | 2025-08-14 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ReviewGraph: A Knowledge Graph Embedding Based Framework for Review Rating Prediction with Sentiment Features](http://arxiv.org/abs/2508.13953v1)** | 2025-08-19 |  |
+| **[Scaling Up without Fading Out: Goal-Aware Sparse GNN for RL-based Generalized Planning](http://arxiv.org/abs/2508.10747v2)** | 2025-08-19 |  |
+| **[Refining Contrastive Learning and Homography Relations for Multi-Modal Recommendation](http://arxiv.org/abs/2508.13745v1)** | 2025-08-19 | <details><summary>This ...</summary><p>This paper has been accepted as a full paper at ACM MM 2025</p></details> |
+| **[CaPGNN: Optimizing Parallel Graph Neural Network Training with Joint Caching and Resource-Aware Graph Partitioning](http://arxiv.org/abs/2508.13716v1)** | 2025-08-19 |  |
+| **[SVDformer: Direction-Aware Spectral Graph Embedding Learning via SVD and Transformer](http://arxiv.org/abs/2508.13435v1)** | 2025-08-19 |  |
+| **[LOOP: A Plug-and-Play Neuro-Symbolic Framework for Enhancing Planning in Autonomous Systems](http://arxiv.org/abs/2508.13371v1)** | 2025-08-18 | Submitted to IAAI-26 |
 | **[HCOA*: Hierarchical Class-ordered A* for Navigation in Semantic Environments](http://arxiv.org/abs/2505.03128v2)** | 2025-08-18 | 8 pages, 6 figures |
 | **[GraphLand: Evaluating Graph Machine Learning Models on Diverse Industrial Data](http://arxiv.org/abs/2409.14500v3)** | 2025-08-18 |  |
 | **[RoTO: Robust Topology Obfuscation Against Tomography Inference Attacks](http://arxiv.org/abs/2508.12852v1)** | 2025-08-18 |  |
@@ -54,10 +60,4 @@ labels: documentation
 | **[S2FGL: Spatial Spectral Federated Graph Learning](http://arxiv.org/abs/2507.02409v4)** | 2025-08-18 |  |
 | **[MPOCryptoML: Multi-Pattern based Off-Chain Crypto Money Laundering Detection](http://arxiv.org/abs/2508.12641v1)** | 2025-08-18 |  |
 | **[FlowMol3: Flow Matching for 3D De Novo Small-Molecule Generation](http://arxiv.org/abs/2508.12629v1)** | 2025-08-18 |  |
-| **[Constructing Invariant and Equivariant Operations by Symmetric Tensor Network](http://arxiv.org/abs/2508.12596v1)** | 2025-08-18 |  |
-| **[Towards Consumer-Grade Cybersickness Prediction: Multi-Model Alignment for Real-Time Vision-Only Inference](http://arxiv.org/abs/2501.01212v3)** | 2025-08-18 |  |
-| **[SGPT: Few-Shot Prompt Tuning for Signed Graphs](http://arxiv.org/abs/2412.12155v2)** | 2025-08-17 | CIKM'25 |
-| **[CRoC: Context Refactoring Contrast for Graph Anomaly Detection with Limited Supervision](http://arxiv.org/abs/2508.12278v1)** | 2025-08-17 | <details><summary>Accep...</summary><p>Accepted by ECAI 2025</p></details> |
-| **[Solving Stochastic Orienteering Problems with Chance Constraints Using a GNN Powered Monte Carlo Tree Search](http://arxiv.org/abs/2409.04653v2)** | 2025-08-17 | 8 pages, 6 figures |
-| **[Overcoming Knowledge Discrepancies: Structuring Reasoning Threads through Knowledge Balancing in Interactive Scenarios](http://arxiv.org/abs/2508.12100v1)** | 2025-08-16 | <details><summary>13 pa...</summary><p>13 pages, 1 figure, 6 tables</p></details> |
 
