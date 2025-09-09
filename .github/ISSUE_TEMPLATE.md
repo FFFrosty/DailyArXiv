@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 09, 2025
+title: Latest 15 Papers - September 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,29 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[BRIDGE: Bootstrapping Text to Control Time-Series Generation via Multi-Agent Iterative Optimization and Diffusion Modeling](http://arxiv.org/abs/2503.02445v7)** | 2025-09-05 | <details><summary>ICML ...</summary><p>ICML 2025 Main Conference</p></details> |
-| **[BEDTime: A Unified Benchmark for Automatically Describing Time Series](http://arxiv.org/abs/2509.05215v1)** | 2025-09-05 |  |
-| **[Using Causality for Enhanced Prediction of Web Traffic Time Series](http://arxiv.org/abs/2502.00612v2)** | 2025-09-05 | <details><summary>time ...</summary><p>time series, web service, web traffic, causality, more experiments</p></details> |
-| **[Tail-robust factor modelling of vector and tensor time series in high dimensions](http://arxiv.org/abs/2407.09390v4)** | 2025-09-05 |  |
-| **[Dynamics of Liquidity Surfaces in Uniswap v3](http://arxiv.org/abs/2509.05013v1)** | 2025-09-05 |  |
-| **[Semi-Supervised Bayesian GANs with Log-Signatures for Uncertainty-Aware Credit Card Fraud Detection](http://arxiv.org/abs/2509.00931v2)** | 2025-09-05 | <details><summary>Updat...</summary><p>Updated references in v2</p></details> |
-| **[Scaling Law for Large-Scale Pre-Training Using Chaotic Time Series and Predictability in Financial Time Series](http://arxiv.org/abs/2509.04921v1)** | 2025-09-05 | Patent pending |
-| **[VARMA-Enhanced Transformer for Time Series Forecasting](http://arxiv.org/abs/2509.04782v1)** | 2025-09-05 | <details><summary>The P...</summary><p>The Pacific Rim International Conference on Artificial Intelligence - PRICAI2025</p></details> |
-| **[Echoes Before Collapse: Deep Learning Detection of Flickering in Complex Systems](http://arxiv.org/abs/2509.04683v1)** | 2025-09-04 |  |
-| **[Applying non-negative matrix factorization with covariates to multivariate time series data as a vector autoregression model](http://arxiv.org/abs/2501.17446v3)** | 2025-09-04 | 10 figures |
-| **[Continuum Attention for Neural Operators](http://arxiv.org/abs/2406.06486v2)** | 2025-09-04 |  |
-| **[ChronoGraph: A Real-World Graph-Based Multivariate Time Series Dataset](http://arxiv.org/abs/2509.04449v1)** | 2025-09-04 |  |
-| **[History matching for functional data and its application to tsunami warnings in the Indian Ocean](http://arxiv.org/abs/2509.04342v1)** | 2025-09-04 | 56 pages, 20 figures |
-| **[One-Embedding-Fits-All: Efficient Zero-Shot Time Series Forecasting by a Model Zoo](http://arxiv.org/abs/2509.04208v1)** | 2025-09-04 |  |
-| **[Privacy Risks in Time Series Forecasting: User- and Record-Level Membership Inference](http://arxiv.org/abs/2509.04169v1)** | 2025-09-04 |  |
+| **[NeedForHeat DataGear: An Open Monitoring System to Accelerate the Residential Heating Transition](http://arxiv.org/abs/2509.06927v1)** | 2025-09-08 | <details><summary>10 pa...</summary><p>10 pages + 3 pages appendices</p></details> |
+| **[Nested Optimal Transport Distances](http://arxiv.org/abs/2509.06702v1)** | 2025-09-08 | 7 pages, 3 figures |
+| **[Neural ARFIMA model for forecasting BRIC exchange rates with long memory under oil shocks and policy uncertainties](http://arxiv.org/abs/2509.06697v1)** | 2025-09-08 |  |
+| **[Improved Classification of Nitrogen Stress Severity in Plants Under Combined Stress Conditions Using Spatio-Temporal Deep Learning Framework](http://arxiv.org/abs/2509.06625v1)** | 2025-09-08 | <details><summary>13 pa...</summary><p>13 pages, 8 figures, 7 Tables</p></details> |
+| **[An AI system to help scientists write expert-level empirical software](http://arxiv.org/abs/2509.06503v1)** | 2025-09-08 | 71 pages, 26 figures |
+| **[CAPMix: Robust Time Series Anomaly Detection Based on Abnormal Assumptions with Dual-Space Mixup](http://arxiv.org/abs/2509.06419v1)** | 2025-09-08 |  |
+| **[Noise-Robust Phase Connectivity Estimation via Bayesian Circular Functional Models](http://arxiv.org/abs/2509.06418v1)** | 2025-09-08 | 17 pages |
+| **[MedualTime: A Dual-Adapter Language Model for Medical Time Series-Text Multimodal Learning](http://arxiv.org/abs/2406.06620v4)** | 2025-09-08 | <details><summary>9 pag...</summary><p>9 pages, 6 figure, 3 tables</p></details> |
+| **[Text-Trained LLMs Can Zero-Shot Extrapolate PDE Dynamics](http://arxiv.org/abs/2509.06322v1)** | 2025-09-08 |  |
+| **[WindFM: An Open-Source Foundation Model for Zero-Shot Wind Power Forecasting](http://arxiv.org/abs/2509.06311v1)** | 2025-09-08 |  |
+| **[Largevars: An R Package for Testing Large VARs for the Presence of Cointegration](http://arxiv.org/abs/2509.06295v1)** | 2025-09-08 | 21 pages |
+| **[Error-quantified Conformal Inference for Time Series](http://arxiv.org/abs/2502.00818v2)** | 2025-09-08 | <details><summary>ICLR ...</summary><p>ICLR 2025 camera version (fixed the bug where citations could not be properly indexed in Google Scholar)</p></details> |
+| **[Sequential Change-point Detection for Binomial Time Series](http://arxiv.org/abs/2402.17274v2)** | 2025-09-07 |  |
+| **[Measuring General Associations in Time Series: An Adaptation and Empirical Evaluation of the CODEC Coefficient in Determining Autoregressive Dynamics](http://arxiv.org/abs/2509.06111v1)** | 2025-09-07 | <details><summary>21 pa...</summary><p>21 pages, 10 figures. Uses standard LaTeX math commands supported by MathJax</p></details> |
+| **[ARIES: Relation Assessment and Model Recommendation for Deep Time Series Forecasting](http://arxiv.org/abs/2509.06060v1)** | 2025-09-07 |  |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Evaluating the Impact of Adversarial Attacks on Traffic Sign Classification using the LISA Dataset](http://arxiv.org/abs/2509.06835v1)** | 2025-09-08 |  |
+| **[Five Blind Men and the Internet: Towards an Understanding of Internet Traffic](http://arxiv.org/abs/2509.06515v1)** | 2025-09-08 | 15 pages, 16 figures |
+| **[Numerical optimization of aviation decarbonization scenarios: balancing traffic and emissions with maturing energy carriers and aircraft technology](http://arxiv.org/abs/2503.22435v2)** | 2025-09-08 |  |
+| **[A Hybrid TDMA/CSMA Protocol for Time-Sensitive Traffic in Robot Applications](http://arxiv.org/abs/2509.06119v1)** | 2025-09-07 |  |
 | **[Bridge Modal Identification using Single Moving Sensor under Random Traffic Loading](http://arxiv.org/abs/2509.05277v1)** | 2025-09-05 | 56 pages, 18 figures |
 | **[Using Causality for Enhanced Prediction of Web Traffic Time Series](http://arxiv.org/abs/2502.00612v2)** | 2025-09-05 | <details><summary>time ...</summary><p>time series, web service, web traffic, causality, more experiments</p></details> |
 | **[A biologically inspired separable learning vision model for real-time traffic object perception in Dark](http://arxiv.org/abs/2509.05012v1)** | 2025-09-05 |  |
@@ -37,27 +41,23 @@ labels: documentation
 | **[Predicting Traffic Accident Severity with Deep Neural Networks](http://arxiv.org/abs/2509.03819v1)** | 2025-09-04 | <details><summary>The 1...</summary><p>The 17th International Conference on Data Science (ICDATA 2021)</p></details> |
 | **[Hierarchical Low-Altitude Wireless Network Empowered Air Traffic Management](http://arxiv.org/abs/2509.03386v1)** | 2025-09-03 | 7 pages 6 figures |
 | **[Neural Canonical Polyadic Factorization for Traffic Analysis](http://arxiv.org/abs/2506.15079v4)** | 2025-09-03 |  |
-| **[A Hierarchical Deep Reinforcement Learning Framework for Traffic Signal Control with Predictable Cycle Planning](http://arxiv.org/abs/2509.03118v1)** | 2025-09-03 |  |
-| **[Automatically Generating High-Precision Simulated Road Networking in Traffic Scenario](http://arxiv.org/abs/2509.02990v1)** | 2025-09-03 | 7 pages,11 figures |
-| **[Diffusion-RL Based Air Traffic Conflict Detection and Resolution Method](http://arxiv.org/abs/2509.03550v1)** | 2025-09-02 | <details><summary>59 pa...</summary><p>59 pages,13 figures, 3 tables</p></details> |
-| **[Automating Traffic Monitoring with SHM Sensor Networks via Vision-Supervised Deep Learning](http://arxiv.org/abs/2506.19023v2)** | 2025-09-02 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Learning to accelerate distributed ADMM using graph neural networks](http://arxiv.org/abs/2509.05288v1)** | 2025-09-05 | <details><summary>Under...</summary><p>Under review, the first two authors contributed equally</p></details> |
-| **[Combining feature-based approaches with graph neural networks and symbolic regression for synergistic performance and interpretability](http://arxiv.org/abs/2509.03547v2)** | 2025-09-05 |  |
-| **[RapidGNN: Energy and Communication-Efficient Distributed Training on Large-Scale Graph Neural Networks](http://arxiv.org/abs/2509.05207v1)** | 2025-09-05 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2505.10806</p></details> |
-| **[Hybrid Matrix Factorization Based Graph Contrastive Learning for Recommendation System](http://arxiv.org/abs/2509.05115v1)** | 2025-09-05 |  |
-| **[Graph Unlearning: Efficient Node Removal in Graph Neural Networks](http://arxiv.org/abs/2509.04785v1)** | 2025-09-05 |  |
-| **[Inferring the Graph Structure of Images for Graph Neural Networks](http://arxiv.org/abs/2509.04677v1)** | 2025-09-04 |  |
-| **[Comment on "A Note on Over-Smoothing for Graph Neural Networks"](http://arxiv.org/abs/2509.04178v1)** | 2025-09-04 | <details><summary>Comme...</summary><p>Comment on arXiv:2006.13318 (Cai & Wang, 2020). Revisits their Dirichlet-energy analysis of over-smoothing and extends it to Leaky-ReLU and spectral polynomial filters; includes Proposition 7.1 and a new proof of Lemma 3.3 for Leaky-ReLU. 7 pages</p></details> |
-| **[Plugging Attention into Power Grids: Towards Transparent Forecasting](http://arxiv.org/abs/2507.03690v2)** | 2025-09-04 | <details><summary>16 pa...</summary><p>16 pages, ECML PKDD 2025 Workshop paper</p></details> |
-| **[Topotein: Topological Deep Learning for Protein Representation Learning](http://arxiv.org/abs/2509.03885v1)** | 2025-09-04 |  |
-| **[EZhouNet:A framework based on graph neural network and anchor interval for the respiratory sound event detection](http://arxiv.org/abs/2509.01153v2)** | 2025-09-04 |  |
-| **[Graph neural networks for learning liquid simulations in dynamic scenes containing kinematic objects](http://arxiv.org/abs/2509.03446v1)** | 2025-09-03 |  |
-| **[Exploring a Graph-based Approach to Offline Reinforcement Learning for Sepsis Treatment](http://arxiv.org/abs/2509.03393v1)** | 2025-09-03 | <details><summary>18th ...</summary><p>18th European Workshop on Reinforcement Learning (EWRL 2025)</p></details> |
-| **[Transformer-Guided Content-Adaptive Graph Learning for Hyperspectral Unmixing](http://arxiv.org/abs/2509.03376v1)** | 2025-09-03 |  |
-| **[Learning to Select MCP Algorithms: From Traditional ML to Dual-Channel GAT-MLP](http://arxiv.org/abs/2508.08005v2)** | 2025-09-03 | 10 pages, 6 figures |
-| **[Temporal social network modeling of mobile connectivity data with graph neural networks](http://arxiv.org/abs/2509.03319v1)** | 2025-09-03 | 22 pages, 7 figures |
+| **[Asynchronous Message Passing for Addressing Oversquashing in Graph Neural Networks](http://arxiv.org/abs/2509.06777v1)** | 2025-09-08 |  |
+| **[A Composite-Loss Graph Neural Network for the Multivariate Post-Processing of Ensemble Weather Forecasts](http://arxiv.org/abs/2509.02784v2)** | 2025-09-08 | <details><summary>30 pa...</summary><p>30 pages, 16 figures, 3 tables</p></details> |
+| **[VariSAC: V2X Assured Connectivity in RIS-Aided ISAC via GNN-Augmented Reinforcement Learning](http://arxiv.org/abs/2509.06763v1)** | 2025-09-08 |  |
+| **[Long-Range Graph Wavelet Networks](http://arxiv.org/abs/2509.06743v1)** | 2025-09-08 |  |
+| **[Learning Load Balancing with GNN in MPTCP-Enabled Heterogeneous Networks](http://arxiv.org/abs/2410.17118v2)** | 2025-09-08 | <details><summary>We wo...</summary><p>We would like to withdraw this submission because it contains several errors that need substantial revision. We plan to prepare a corrected and improved version, which will be submitted as a new manuscript at a later stage</p></details> |
+| **[AnalysisGNN: Unified Music Analysis with Graph Neural Networks](http://arxiv.org/abs/2509.06654v1)** | 2025-09-08 | <details><summary>Accep...</summary><p>Accepted at the 17th International Symposium on Computer Music Multidisciplinary Research (CMMR) 2025</p></details> |
+| **[PAC-Bayesian Generalization Bounds for Graph Convolutional Networks on Inductive Node Classification](http://arxiv.org/abs/2509.06600v1)** | 2025-09-08 |  |
+| **[Topological Regularization for Force Prediction in Active Particle Suspension with EGNN and Persistent Homology](http://arxiv.org/abs/2509.06574v1)** | 2025-09-08 |  |
+| **[Rethinking GNN Expressive Power from a Distributed Computational Model Perspective](http://arxiv.org/abs/2410.01308v4)** | 2025-09-08 |  |
+| **[Graph Neural Networks for Resource Allocation in Interference-limited Multi-Channel Wireless Networks with QoS Constraints](http://arxiv.org/abs/2509.06395v1)** | 2025-09-08 |  |
+| **[Predicting Steady-State Behavior in Complex Networks with Graph Neural Networks](http://arxiv.org/abs/2502.01693v3)** | 2025-09-08 | <details><summary>21 pa...</summary><p>21 pages, 15 figures (including Appendix)</p></details> |
+| **[A Spatio-Temporal Graph Neural Networks Approach for Predicting Silent Data Corruption inducing Circuit-Level Faults](http://arxiv.org/abs/2509.06289v1)** | 2025-09-08 | <details><summary>21 pa...</summary><p>21 pages, 9 figures, plan to submit to ACM TODAES</p></details> |
+| **[RecMind: LLM-Enhanced Graph Neural Networks for Personalized Consumer Recommendations](http://arxiv.org/abs/2509.06286v1)** | 2025-09-08 |  |
+| **[Data-Efficient Time-Dependent PDE Surrogates: Graph Neural Simulators vs Neural Operators](http://arxiv.org/abs/2509.06154v1)** | 2025-09-07 | <details><summary>21 pa...</summary><p>21 pages including references. Supplementary Information provided</p></details> |
+| **[Multi-Stage Graph Neural Networks for Data-Driven Prediction of Natural Convection in Enclosed Cavities](http://arxiv.org/abs/2509.06041v1)** | 2025-09-07 |  |
 
