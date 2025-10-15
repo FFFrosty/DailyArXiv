@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 15, 2025
+title: Latest 15 Papers - October 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,22 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Attention Factors for Statistical Arbitrage](http://arxiv.org/abs/2510.11616v1)** | 2025-10-13 | <details><summary>Accep...</summary><p>Accepted to the 6th ACM International Conference on AI in Finance</p></details> |
-| **[DiffStyleTS: Diffusion Model for Style Transfer in Time Series](http://arxiv.org/abs/2510.11335v1)** | 2025-10-13 |  |
-| **[Dynamic Network-Based Two-Stage Time Series Forecasting for Affiliate Marketing](http://arxiv.org/abs/2510.11323v1)** | 2025-10-13 |  |
-| **[Vision-LLMs for Spatiotemporal Traffic Forecasting](http://arxiv.org/abs/2510.11282v1)** | 2025-10-13 |  |
-| **[SeFEF: A Seizure Forecasting Evaluation Framework](http://arxiv.org/abs/2510.11275v1)** | 2025-10-13 | <details><summary>main ...</summary><p>main document: 14 pages, 9 figures, 2 tables; appendix: 7 pages, 2 figures, 3 tables, 2 algorithms</p></details> |
-| **[A Comprehensive Forecasting-Based Framework for Time Series Anomaly Detection: Benchmarking on the Numenta Anomaly Benchmark (NAB)](http://arxiv.org/abs/2510.11141v1)** | 2025-10-13 |  |
-| **[Causal Disentanglement Learning for Accurate Anomaly Detection in Multivariate Time Series](http://arxiv.org/abs/2510.11084v1)** | 2025-10-13 | 20 pages, 4 Figures, |
-| **[Conformal Inference for Time Series over Graphs](http://arxiv.org/abs/2510.11049v1)** | 2025-10-13 |  |
-| **[How Effective Are Time-Series Models for Rainfall Nowcasting? A Comprehensive Benchmark for Rainfall Nowcasting Incorporating PWV Data](http://arxiv.org/abs/2509.25263v2)** | 2025-10-13 | 11 pages,8 figures |
-| **[LPCVAE: A Conditional VAE with Long-Term Dependency and Probabilistic Time-Frequency Fusion for Time Series Anomaly Detection](http://arxiv.org/abs/2510.10915v1)** | 2025-10-13 |  |
-| **[FRIREN: Beyond Trajectories -- A Spectral Lens on Time](http://arxiv.org/abs/2505.17370v4)** | 2025-10-13 | <details><summary>37 pa...</summary><p>37 pages, 4 figures. Submitted to NeurIPS 2025. Public code at https://anonymous.4open.science/r/LTSF_model-03BB/</p></details> |
-| **[Identifying and Quantifying Financial Bubbles with the Hyped Log-Periodic Power Law Model](http://arxiv.org/abs/2510.10878v1)** | 2025-10-13 |  |
-| **[How Patterns Dictate Learnability in Sequential Data](http://arxiv.org/abs/2510.10744v1)** | 2025-10-12 | <details><summary>NeurI...</summary><p>NeurIPS 2025, 36 pages, 4 figures</p></details> |
-| **[SDG-L: A Semiparametric Deep Gaussian Process based Framework for Battery Capacity Prediction](http://arxiv.org/abs/2510.10621v1)** | 2025-10-12 |  |
-| **[Multi-scale Frequency-Aware Adversarial Network for Parkinson's Disease Assessment Using Wearable Sensors](http://arxiv.org/abs/2510.10558v1)** | 2025-10-12 |  |
+| **[CoRA: Covariate-Aware Adaptation of Time Series Foundation Models](http://arxiv.org/abs/2510.12681v1)** | 2025-10-14 |  |
+| **[TerraCodec: Compressing Earth Observations](http://arxiv.org/abs/2510.12670v1)** | 2025-10-14 |  |
+| **[CrossAD: Time Series Anomaly Detection with Cross-scale Associations and Cross-window Modeling](http://arxiv.org/abs/2510.12489v1)** | 2025-10-14 | <details><summary>Accep...</summary><p>Accepted by the thirty-ninth annual conference on Neural Information Processing Systems</p></details> |
+| **[Wasserstein-based Kernel Principal Component Analysis for Clustering Applications](http://arxiv.org/abs/2503.14357v2)** | 2025-10-14 |  |
+| **[Ultrafast Grid Impedance Identification in $dq$-Asymmetric Three-Phase Power Systems](http://arxiv.org/abs/2510.12338v1)** | 2025-10-14 |  |
+| **[Sliding-Window Signatures for Time Series: Application to Electricity Demand Forecasting](http://arxiv.org/abs/2510.12337v1)** | 2025-10-14 |  |
+| **[Optimal break tests for large linear time series models](http://arxiv.org/abs/2510.12262v1)** | 2025-10-14 |  |
+| **[GTCN-G: A Residual Graph-Temporal Fusion Network for Imbalanced Intrusion Detection (Preprint)](http://arxiv.org/abs/2510.07285v2)** | 2025-10-14 | <details><summary>This ...</summary><p>This preprint was submitted to IEEE TrustCom 2025. The accepted version will be published under copyright 2025 IEEE</p></details> |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Metronome: Efficient Scheduling for Periodic Traffic Jobs with Network and Priority Awareness](http://arxiv.org/abs/2510.12274v1)** | 2025-10-14 | <details><summary>16 pa...</summary><p>16 pages, 16 figures. This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Stable and Fault-Tolerant Decentralized Traffic Engineering](http://arxiv.org/abs/2510.11937v1)** | 2025-10-13 | 19 pages, 23 figures |
+| **[Task-Specific Dual-Model Framework for Comprehensive Traffic Safety Video Description and Analysis](http://arxiv.org/abs/2510.11907v1)** | 2025-10-13 | <details><summary>This ...</summary><p>This paper was accepted at ICCV 2025</p></details> |
+| **[Lightweight CNN-Based Wi-Fi Intrusion Detection Using 2D Traffic Representations](http://arxiv.org/abs/2510.11898v1)** | 2025-10-13 |  |
 | **[IntersectioNDE: Learning Complex Urban Traffic Dynamics based on Interaction Decoupling Strategy](http://arxiv.org/abs/2510.11534v1)** | 2025-10-13 | <details><summary>Accep...</summary><p>Accepted by ITSC 2025</p></details> |
 | **[Vision-LLMs for Spatiotemporal Traffic Forecasting](http://arxiv.org/abs/2510.11282v1)** | 2025-10-13 |  |
 | **[Lightweight and Interpretable Transformer via Mixed Graph Algorithm Unrolling for Traffic Forecast](http://arxiv.org/abs/2505.13102v2)** | 2025-10-12 | <details><summary>23 pa...</summary><p>23 pages, 4 figures, 8 tables</p></details> |
@@ -37,27 +34,23 @@ labels: documentation
 | **[Evaluating Small Vision-Language Models on Distance-Dependent Traffic Perception](http://arxiv.org/abs/2510.08352v1)** | 2025-10-09 |  |
 | **[Less is More: Strategic Expert Selection Outperforms Ensemble Complexity in Traffic Forecasting](http://arxiv.org/abs/2510.07426v1)** | 2025-10-08 | <details><summary>Accep...</summary><p>Accepted to IEEE ICTAI 2025. Version 0.9. 10 pages, 5 figures. Preprint differs from the published version in formatting and minor wording</p></details> |
 | **[Exposing LLM User Privacy via Traffic Fingerprint Analysis: A Study of Privacy Risks in LLM Agent Interactions](http://arxiv.org/abs/2510.07176v1)** | 2025-10-08 | <details><summary>26 pa...</summary><p>26 pages with 11 figures</p></details> |
-| **[GNN-enhanced Traffic Anomaly Detection for Next-Generation SDN-Enabled Consumer Electronics](http://arxiv.org/abs/2510.07109v1)** | 2025-10-08 | <details><summary>This ...</summary><p>This paper has been accepted for publication in IEEE Transactions on Consumer Electronics. 10 pages, 6 figures</p></details> |
-| **[RevealNet: Distributed Traffic Correlation for Attack Attribution on Programmable Networks](http://arxiv.org/abs/2505.00618v2)** | 2025-10-08 | <details><summary>Accep...</summary><p>Accepted to the 23rd IEEE International Symposium on Network Computing and Applications (NCA)</p></details> |
-| **[DecompGAIL: Learning Realistic Traffic Behaviors with Decomposed Multi-Agent Generative Adversarial Imitation Learning](http://arxiv.org/abs/2510.06913v1)** | 2025-10-08 |  |
-| **[Spatiotemporal Tile-based Attention-guided LSTMs for Traffic Video Prediction](http://arxiv.org/abs/1910.11030v4)** | 2025-10-08 | <details><summary>Neuri...</summary><p>Neurips 2019 Traffic4Cast Challenge, v4: added formal proofs</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Lecture Notes on Verifying Graph Neural Networks](http://arxiv.org/abs/2510.11617v1)** | 2025-10-13 |  |
-| **[Query-Specific GNN: A Comprehensive Graph Representation Learning Method for Retrieval Augmented Generation](http://arxiv.org/abs/2510.11541v1)** | 2025-10-13 |  |
-| **[Maximum entropy temporal networks](http://arxiv.org/abs/2509.02098v2)** | 2025-10-13 | 16 pages, 13 figures |
-| **[Multi-View Graph Feature Propagation for Privacy Preservation and Feature Sparsity](http://arxiv.org/abs/2510.11347v1)** | 2025-10-13 |  |
-| **[Event-Aware Prompt Learning for Dynamic Graphs](http://arxiv.org/abs/2510.11339v1)** | 2025-10-13 | Under review |
-| **[Edge-to-Cloud Computations-as-a-Service in Software-Defined Energy Networks for Smart Grids](http://arxiv.org/abs/2510.11286v1)** | 2025-10-13 |  |
-| **[Enforcing convex constraints in Graph Neural Networks](http://arxiv.org/abs/2510.11227v1)** | 2025-10-13 |  |
-| **[Long-Range Graph Wavelet Networks](http://arxiv.org/abs/2509.06743v3)** | 2025-10-13 | <details><summary>39th ...</summary><p>39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: New Perspectives in Advancing Graph Machine Learning</p></details> |
-| **[Graph Neural Network-Based Multicast Routing for On-Demand Streaming Services in 6G Networks](http://arxiv.org/abs/2510.11109v1)** | 2025-10-13 |  |
-| **[Revisiting Node Affinity Prediction in Temporal Graphs](http://arxiv.org/abs/2510.06940v2)** | 2025-10-13 | preprint |
-| **[Comparative Evaluation of Neural Network Architectures for Generalizable Human Spatial Preference Prediction in Unseen Built Environments](http://arxiv.org/abs/2510.10954v1)** | 2025-10-13 | <details><summary>The 1...</summary><p>The 15th International Workshop on Structural Health Monitoring (IWSHM)</p></details> |
-| **[Self-Exploring Language Models for Explainable Link Forecasting on Temporal Graphs via Reinforcement Learning](http://arxiv.org/abs/2509.00975v2)** | 2025-10-13 |  |
-| **[Fast and the Furious: Hot Starts in Pursuit-Evasion Games](http://arxiv.org/abs/2510.10830v1)** | 2025-10-12 | <details><summary>Prese...</summary><p>Presented at AAMAS Workshop on Autonomous Robots and Multirobot Systems (ARMS)</p></details> |
-| **[Structure Over Signal: A Globalized Approach to Multi-relational GNNs for Stock Prediction](http://arxiv.org/abs/2510.10775v1)** | 2025-10-12 |  |
-| **[A comprehensive comparison of neural operators for 3D industry-scale engineering designs](http://arxiv.org/abs/2510.05995v2)** | 2025-10-11 |  |
+| **[Disentangling Neurodegeneration with Brain Age Gap Prediction Models: A Graph Signal Processing Perspective](http://arxiv.org/abs/2510.12763v1)** | 2025-10-14 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Signal Processing Magazine</p></details> |
+| **[Multi-View Graph Learning with Graph-Tuple](http://arxiv.org/abs/2510.10341v2)** | 2025-10-14 | <details><summary>Submi...</summary><p>Submitted to TAG workshop</p></details> |
+| **[Multitask finetuning and acceleration of chemical pretrained models for small molecule drug property prediction](http://arxiv.org/abs/2510.12719v1)** | 2025-10-14 |  |
+| **[Efficient Exact Subgraph Matching via GNN-based Path Dominance Embedding (Technical Report)](http://arxiv.org/abs/2309.15641v5)** | 2025-10-14 |  |
+| **[CAMNet: Leveraging Cooperative Awareness Messages for Vehicle Trajectory Prediction](http://arxiv.org/abs/2510.12703v1)** | 2025-10-14 | <details><summary>Accep...</summary><p>Accepted at the IEEE Consumer Communications & Networking Conference (CCNC) 2026 - Las Vegas, NV, USA 9 - 12 January 2026</p></details> |
+| **[PromoGuardian: Detecting Promotion Abuse Fraud with Multi-Relation Fused Graph Neural Networks](http://arxiv.org/abs/2510.12652v1)** | 2025-10-14 | <details><summary>The f...</summary><p>The final version of this paper is going to appear in IEEE Symposium on Security and Privacy 2026</p></details> |
+| **[Computing Systemic Risk Measures with Graph Neural Networks](http://arxiv.org/abs/2410.07222v2)** | 2025-10-14 | 50 pages |
+| **[Maximum entropy temporal networks](http://arxiv.org/abs/2509.02098v3)** | 2025-10-14 | 17 pages, 25 figures |
+| **[Enhanced Pre-training of Graph Neural Networks for Million-Scale Heterogeneous Graphs](http://arxiv.org/abs/2510.12401v1)** | 2025-10-14 | 26 pages |
+| **[SpaPool: Soft Partition Assignment Pooling for__Graph Neural Networks](http://arxiv.org/abs/2509.11675v2)** | 2025-10-14 |  |
+| **[Scaling Multi-Agent Epistemic Planning through GNN-Derived Heuristics](http://arxiv.org/abs/2508.12840v2)** | 2025-10-14 |  |
+| **[Leveraging Teleconnections with Physics-Informed Graph Attention Networks for Long-Range Extreme Rainfall Forecasting in Thailand](http://arxiv.org/abs/2510.12328v1)** | 2025-10-14 |  |
+| **[RIGNO: A Graph-based framework for robust and accurate operator learning for PDEs on arbitrary domains](http://arxiv.org/abs/2501.19205v2)** | 2025-10-14 |  |
+| **[GTCN-G: A Residual Graph-Temporal Fusion Network for Imbalanced Intrusion Detection (Preprint)](http://arxiv.org/abs/2510.07285v2)** | 2025-10-14 | <details><summary>This ...</summary><p>This preprint was submitted to IEEE TrustCom 2025. The accepted version will be published under copyright 2025 IEEE</p></details> |
+| **[Unveiling the Vulnerability of Graph-LLMs: An Interpretable Multi-Dimensional Adversarial Attack on TAGs](http://arxiv.org/abs/2510.12233v1)** | 2025-10-14 | 12 pages, 4 figures |
 
