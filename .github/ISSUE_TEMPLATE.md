@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 16, 2025
+title: Latest 15 Papers - December 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,29 +7,33 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Advancing physiological time series reconstruction and imputation via mixture of receptive fields and experts fusion](https://arxiv.org/abs/2512.07873v3)** | 2025-12-12 |  |
-| **[Detecting changes in the mean of spatial random fields on a regular grid](https://arxiv.org/abs/2512.11599v1)** | 2025-12-12 |  |
-| **[Brain-Semantoks: Learning Semantic Tokens of Brain Dynamics with a Self-Distilled Foundation Model](https://arxiv.org/abs/2512.11582v1)** | 2025-12-12 | <details><summary>Code ...</summary><p>Code and pretrained models available at https://github.com/SamGijsen/Brain-Semantoks</p></details> |
-| **[Multi-temporal Calving Front Segmentation](https://arxiv.org/abs/2512.11560v1)** | 2025-12-12 |  |
-| **[Optimizing the Training Diet: Data Mixture Search for Robust Time Series Forecasting](https://arxiv.org/abs/2512.11546v1)** | 2025-12-12 | <details><summary>Accep...</summary><p>Accepted ACM SAC 2026</p></details> |
-| **[Contrastive Time Series Forecasting with Anomalies](https://arxiv.org/abs/2512.11526v1)** | 2025-12-12 |  |
-| **[Super-Resolved Canopy Height Mapping from Sentinel-2 Time Series Using LiDAR HD Reference Data across Metropolitan France](https://arxiv.org/abs/2512.11524v1)** | 2025-12-12 |  |
-| **[Network Estimation for Stationary Time Series](https://arxiv.org/abs/2512.11406v1)** | 2025-12-12 |  |
-| **[Echoes of the past: A unified perspective on fading memory and echo states](https://arxiv.org/abs/2508.19145v2)** | 2025-12-12 |  |
-| **[Spectral entropy prior-guided deep feature fusion architecture for magnetic core loss](https://arxiv.org/abs/2512.11334v1)** | 2025-12-12 |  |
-| **[Neuronal Attention Circuit (NAC) for Representation Learning](https://arxiv.org/abs/2512.10282v2)** | 2025-12-12 | Paper for ICML2026 |
-| **[Integrated Prediction and Multi-period Portfolio Optimization](https://arxiv.org/abs/2512.11273v1)** | 2025-12-12 | <details><summary>23 pa...</summary><p>23 pages, 6 figures, and 4 tables</p></details> |
-| **[Insight Miner: A Time Series Analysis Dataset for Cross-Domain Alignment with Natural Language](https://arxiv.org/abs/2512.11251v1)** | 2025-12-12 |  |
-| **[HAROOD: A Benchmark for Out-of-distribution Generalization in Sensor-based Human Activity Recognition](https://arxiv.org/abs/2512.10807v2)** | 2025-12-12 | Accepted by KDD 2026 |
-| **[Harnessing Rich Multi-Modal Data for Spatial-Temporal Homophily-Embedded Graph Learning Across Domains and Localities](https://arxiv.org/abs/2512.11178v1)** | 2025-12-11 | <details><summary>18 pa...</summary><p>18 pages, 8 figures, Presented in part at the 2025 INFORMS Annual Meeting</p></details> |
+| **[From Many Models, One: Macroeconomic Forecasting with Reservoir Ensembles](https://arxiv.org/abs/2512.13642v1)** | 2025-12-15 |  |
+| **[Autotune: fast, accurate, and automatic tuning parameter selection for Lasso](https://arxiv.org/abs/2512.11139v2)** | 2025-12-15 | 53 pages, 35 figures |
+| **[How PARTs assemble into wholes: Learning the relative composition of images](https://arxiv.org/abs/2506.03682v2)** | 2025-12-15 |  |
+| **[Quantifying Robustness: A Benchmarking Framework for Deep Learning Forecasting in Cyber-Physical Systems](https://arxiv.org/abs/2504.03494v3)** | 2025-12-15 | <details><summary>Accep...</summary><p>Accepted at the 30th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA)</p></details> |
+| **[HTMformer: Hybrid Time and Multivariate Transformer for Time Series Forecasting](https://arxiv.org/abs/2510.07084v3)** | 2025-12-15 |  |
+| **[Channel Dependence, Limited Lookback Windows, and the Simplicity of Datasets: How Biased is Time Series Forecasting?](https://arxiv.org/abs/2502.09683v2)** | 2025-12-15 |  |
+| **[Adaptive Information Routing for Multimodal Time Series Forecasting](https://arxiv.org/abs/2512.10229v2)** | 2025-12-15 |  |
+| **[Robust tests for parameter change in conditionally heteroscedastic time series models](https://arxiv.org/abs/2512.12946v1)** | 2025-12-15 | 28 pages, 1 figure |
+| **[Integrated Prediction and Multi-period Portfolio Optimization](https://arxiv.org/abs/2512.11273v2)** | 2025-12-15 | <details><summary>23 pa...</summary><p>23 pages, 6 figures, and 4 tables</p></details> |
+| **[Improving Time Series Forecasting via Instance-aware Post-hoc Revision](https://arxiv.org/abs/2505.23583v2)** | 2025-12-15 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025 as a poster</p></details> |
+| **[Advancing Financial Engineering with Foundation Models: Progress, Applications, and Challenges](https://arxiv.org/abs/2507.18577v2)** | 2025-12-15 | <details><summary>Accep...</summary><p>Accepted by [J]. Engineering, 2025</p></details> |
+| **[Next-generation reservoir computing validated by classification task](https://arxiv.org/abs/2512.12903v1)** | 2025-12-15 |  |
+| **[Empirical Mode Decomposition and Graph Transformation of the MSCI World Index: A Multiscale Topological Analysis for Graph Neural Network Modeling](https://arxiv.org/abs/2512.12526v1)** | 2025-12-14 | <details><summary>19 pa...</summary><p>19 pages, 3 figures, 6 tables</p></details> |
+| **[Noise-robust Contrastive Learning for Critical Transition Detection in Dynamical Systems](https://arxiv.org/abs/2512.12523v1)** | 2025-12-14 | under revision |
+| **[Explainable Artificial Intelligence for Economic Time Series: A Comprehensive Review and a Systematic Taxonomy of Methods and Concepts](https://arxiv.org/abs/2512.12506v1)** | 2025-12-14 | 11 pages, 1 table |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Digital Life of Parisian Parks: Multifunctionality and Urban Context Uncovered by Mobile Application Traffic](https://arxiv.org/abs/2508.15516v2)** | 2025-12-15 |  |
+| **[Machine Learning Architectures for the Estimation of Predicted Occupancy Grids in Road Traffic](https://arxiv.org/abs/2512.12907v1)** | 2025-12-15 | <details><summary>Journ...</summary><p>Journal of Advances in Information Technology</p></details> |
+| **[Congestion Reduction in EV Charger Placement Using Traffic Equilibrium Models](https://arxiv.org/abs/2512.12081v1)** | 2025-12-12 |  |
 | **[Surveillance Video-Based Traffic Accident Detection Using Transformer Architecture](https://arxiv.org/abs/2512.11350v1)** | 2025-12-12 |  |
 | **[Elevation Aware 2D/3D Co-simulation Framework for Large-scale Traffic Flow and High-fidelity Vehicle Dynamics](https://arxiv.org/abs/2512.11249v1)** | 2025-12-12 |  |
 | **[Multi-Objective Reinforcement Learning for Large-Scale Mixed Traffic Control](https://arxiv.org/abs/2512.11247v1)** | 2025-12-12 |  |
 | **[Evaluating Small Vision-Language Models on Distance-Dependent Traffic Perception](https://arxiv.org/abs/2510.08352v2)** | 2025-12-10 | <details><summary>Publi...</summary><p>Published in IEEE Open Journal of Vehicular Technology. Final version available at: https://ieeexplore.ieee.org/document/11230063</p></details> |
+| **[Microscopic Vehicle Trajectory Datasets from UAV-collected Video for Heterogeneous, Area-Based Urban Traffic](https://arxiv.org/abs/2512.11898v1)** | 2025-12-10 | <details><summary>This ...</summary><p>This paper presents basic statistics and trends in empirically observed data from highly heterogeneous and area-based traffic while offering the datasets open source for researchers and practitioners</p></details> |
 | **[Towards Resilient Transportation: A Conditional Transformer for Accident-Informed Traffic Forecasting](https://arxiv.org/abs/2512.09398v1)** | 2025-12-10 |  |
 | **[CFLight: Enhancing Safety with Traffic Signal Control through Counterfactual Learning](https://arxiv.org/abs/2512.09368v1)** | 2025-12-10 |  |
 | **[Traffic Scene Small Target Detection Method Based on YOLOv8n-SPTS Model for Autonomous Driving](https://arxiv.org/abs/2512.09296v1)** | 2025-12-10 | <details><summary>6 pag...</summary><p>6 pages, 7 figures, 1 table. Accepted to The 2025 IEEE 3rd International Conference on Electrical, Automation and Computer Engineering (ICEACE), 2025. Code available at https://github.com/SonghanWu/yolov8n-SPTS</p></details> |
@@ -37,27 +41,23 @@ labels: documentation
 | **[From Real-World Traffic Data to Relevant Critical Scenarios](https://arxiv.org/abs/2512.07482v1)** | 2025-12-08 | 8 pages, 8 figures |
 | **[Adaptive Tuning of Parameterized Traffic Controllers via Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2512.07417v1)** | 2025-12-08 |  |
 | **[Characterizing Lane-Changing Behavior in Mixed Traffic](https://arxiv.org/abs/2512.07219v1)** | 2025-12-08 |  |
-| **[Energy-Aware Lane Planning for Connected Electric Vehicles in Urban Traffic: Design and Vehicle-in-the-Loop Validation](https://arxiv.org/abs/2503.23228v4)** | 2025-12-07 | <details><summary>Accep...</summary><p>Accepted at 2025 IEEE Conference on Decision and Control (CDC25')</p></details> |
-| **[Estimating Black Carbon Concentration from Urban Traffic Using Vision-Based Machine Learning](https://arxiv.org/abs/2512.06649v1)** | 2025-12-07 | <details><summary>12 pa...</summary><p>12 pages, 16 figures, 4 tables, 4 pages Appendix, in submission and under review for ACM MobiSys 2026 as of December 6th, 2025</p></details> |
-| **[Analyzing Collision Rates in Large-Scale Mixed Traffic Control via Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2512.06645v1)** | 2025-12-07 |  |
-| **[WiFinger: Fingerprinting Noisy IoT Event Traffic Using Packet-level Sequence Matching](https://arxiv.org/abs/2508.03151v2)** | 2025-12-06 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Text2Graph: Combining Lightweight LLMs and GNNs for Efficient Text Classification in Label-Scarce Scenarios](https://arxiv.org/abs/2512.10061v2)** | 2025-12-12 |  |
-| **[Graph Embedding with Mel-spectrograms for Underwater Acoustic Target Recognition](https://arxiv.org/abs/2512.11545v1)** | 2025-12-12 |  |
-| **[CAT: Can Trust be Predicted with Context-Awareness in Dynamic Heterogeneous Networks?](https://arxiv.org/abs/2512.11352v1)** | 2025-12-12 |  |
-| **[Condensation-Concatenation Framework for Dynamic Graph Continual Learning](https://arxiv.org/abs/2512.11317v1)** | 2025-12-12 |  |
-| **[BugSweeper: Function-Level Detection of Smart Contract Vulnerabilities Using Graph Neural Networks](https://arxiv.org/abs/2512.09385v2)** | 2025-12-12 | <details><summary>This ...</summary><p>This paper is accepted to AAAI 2026</p></details> |
-| **[Personalized Pricing in Social Networks with Individual and Group Fairness Considerations](https://arxiv.org/abs/2512.11252v1)** | 2025-12-12 |  |
-| **[GSplit: Scaling Graph Neural Network Training on Large Graphs via Split-Parallelism](https://arxiv.org/abs/2303.13775v3)** | 2025-12-12 | <details><summary>Publi...</summary><p>Published at MLSys 2025. OpenReview: https://openreview.net/forum?id=cTOx1YTBgh</p></details> |
-| **[Refining Graphical Neural Network Predictions Using Flow Matching for Optimal Power Flow with Constraint-Satisfaction Guarantee](https://arxiv.org/abs/2512.11127v1)** | 2025-12-11 |  |
-| **[Empowering GNNs for Domain Adaptation via Denoising Target Graph](https://arxiv.org/abs/2512.06236v2)** | 2025-12-11 |  |
-| **[LGAN: An Efficient High-Order Graph Neural Network via the Line Graph Aggregation](https://arxiv.org/abs/2512.10735v1)** | 2025-12-11 |  |
-| **[Formula size game and model checking for modal substitution calculus](https://arxiv.org/abs/2505.07966v2)** | 2025-12-11 |  |
-| **[THeGAU: Type-Aware Heterogeneous Graph Autoencoder and Augmentation](https://arxiv.org/abs/2512.10589v1)** | 2025-12-11 |  |
-| **[Mr. Virgil: Learning Multi-robot Visual-range Relative Localization](https://arxiv.org/abs/2512.10540v1)** | 2025-12-11 | <details><summary>Accep...</summary><p>Accepted by 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</p></details> |
-| **[From Lab to Reality: A Practical Evaluation of Deep Learning Models and LLMs for Vulnerability Detection](https://arxiv.org/abs/2512.10485v1)** | 2025-12-11 |  |
-| **[DDFI: Diverse and Distribution-aware Missing Feature Imputation via Two-step Reconstruction](https://arxiv.org/abs/2512.06356v2)** | 2025-12-11 |  |
+| **[LightTopoGAT: Enhancing Graph Attention Networks with Topological Features for Efficient Graph Classification](https://arxiv.org/abs/2512.13617v1)** | 2025-12-15 | 9 pages |
+| **[The prediction of the quality of results in Logic Synthesis using Transformer and Graph Neural Networks](https://arxiv.org/abs/2207.11437v3)** | 2025-12-15 |  |
+| **[Meta Pruning via Graph Metanetworks : A Universal Meta Learning Framework for Network Pruning](https://arxiv.org/abs/2506.12041v3)** | 2025-12-15 |  |
+| **[OPAL: Operator-Programmed Algorithms for Landscape-Aware Black-Box Optimization](https://arxiv.org/abs/2512.12809v1)** | 2025-12-14 | <details><summary>Sourc...</summary><p>Source code, experiment scripts, and results are publicly available at https://github.com/junbolian/OPAL. The real-world application part hasn't been done yet</p></details> |
+| **[Modeling Authorial Style in Urdu Novels Using Character Interaction Graphs and Graph Neural Networks](https://arxiv.org/abs/2512.12654v1)** | 2025-12-14 | 6 pages |
+| **[Shoot from the HIP: Hessian Interatomic Potentials without derivatives](https://arxiv.org/abs/2509.21624v2)** | 2025-12-14 | <details><summary>https...</summary><p>https://github.com/BurgerAndreas/hip</p></details> |
+| **[Torch Geometric Pool: the Pytorch library for pooling in Graph Neural Networks](https://arxiv.org/abs/2512.12642v1)** | 2025-12-14 |  |
+| **[DGTEN: A Robust Deep Gaussian based Graph Neural Network for Dynamic Trust Evaluation with Uncertainty-Quantification Support](https://arxiv.org/abs/2510.07620v2)** | 2025-12-14 | <details><summary>15 pa...</summary><p>15 pages, 6 figures, 5 tables</p></details> |
+| **[Empirical Mode Decomposition and Graph Transformation of the MSCI World Index: A Multiscale Topological Analysis for Graph Neural Network Modeling](https://arxiv.org/abs/2512.12526v1)** | 2025-12-14 | <details><summary>19 pa...</summary><p>19 pages, 3 figures, 6 tables</p></details> |
+| **[GoMS: Graph of Molecule Substructure Network for Molecule Property Prediction](https://arxiv.org/abs/2512.12489v1)** | 2025-12-13 |  |
+| **[Stealthy Yet Effective: Distribution-Preserving Backdoor Attacks on Graph Classification](https://arxiv.org/abs/2509.26032v2)** | 2025-12-13 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
+| **[High-Dimensional Tensor Discriminant Analysis: Low-Rank Discriminant Structure, Representation Synergy, and Theoretical Guarantees](https://arxiv.org/abs/2512.12122v1)** | 2025-12-13 |  |
+| **[Dynamic Fraud Detection: Integrating Reinforcement Learning into Graph Neural Networks](https://arxiv.org/abs/2409.09892v2)** | 2025-12-12 | <details><summary>I req...</summary><p>I request the withdrawal of this paper because serious concerns have been identified regarding the originality of the manuscript, and the authors suspect that the fifth author may have engaged in plagiarism, including the possible use of unpublished results from a manuscript affiliated with Donghua University</p></details> |
+| **[Generative Graph Pattern Machine](https://arxiv.org/abs/2505.16130v3)** | 2025-12-12 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
+| **[Context-Aware Agentic Power Resources Optimisation in EV using Smart2ChargeApp](https://arxiv.org/abs/2512.12048v1)** | 2025-12-12 |  |
 
