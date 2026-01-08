@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 08, 2026
+title: Latest 15 Papers - January 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,29 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Sound Event Detection with Boundary-Aware Optimization and Inference](https://arxiv.org/abs/2601.04178v1)** | 2026-01-07 | <details><summary>Submi...</summary><p>Submitted to IEEE Signal Processing Letters</p></details> |
+| **[Pixel-Wise Multimodal Contrastive Learning for Remote Sensing Images](https://arxiv.org/abs/2601.04127v1)** | 2026-01-07 | 21 pages, 9 Figures |
+| **[TimeDistill: Efficient Long-Term Time Series Forecasting with MLP via Cross-Architecture Distillation](https://arxiv.org/abs/2502.15016v3)** | 2026-01-07 | <details><summary>Accep...</summary><p>Accepted at KDD 2026, we release our code publicly at https://github.com/LingFengGold/TimeDistill</p></details> |
+| **[Exponentially weighted estimands and the exponential family: filtering, prediction and smoothing](https://arxiv.org/abs/2512.16745v2)** | 2026-01-07 |  |
+| **[Estimation of large approximate dynamic matrix factor models based on the EM algorithm and Kalman filtering](https://arxiv.org/abs/2502.04112v3)** | 2026-01-07 |  |
+| **[Rethinking Recurrent Neural Networks for Time Series Forecasting: A Reinforced Recurrent Encoder with Prediction-Oriented Proximal Policy Optimization](https://arxiv.org/abs/2601.03683v1)** | 2026-01-07 |  |
+| **[Quantum Classical Ridgelet Neural Network For Time Series Model](https://arxiv.org/abs/2601.03654v1)** | 2026-01-07 |  |
+| **[CaTS-Bench: Can Language Models Describe Time Series?](https://arxiv.org/abs/2509.20823v3)** | 2026-01-07 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 3 tables in the main paper. Many more in the appendix</p></details> |
+| **[Auditable DevOps Automation via VSM and GQM](https://arxiv.org/abs/2601.03574v1)** | 2026-01-07 |  |
+| **[Local Intrinsic Dimensionality of Ground Motion Data for Early Detection of Complex Catastrophic Slope Failure](https://arxiv.org/abs/2601.03569v1)** | 2026-01-07 | 9 pages, 7 figures |
+| **[A Proposed Paradigm for Imputing Missing Multi-Sensor Data in the Healthcare Domain](https://arxiv.org/abs/2601.03565v1)** | 2026-01-07 | <details><summary>21 Pa...</summary><p>21 Pages, 6 Figures, 7 Tables</p></details> |
+| **[Context-Alignment: Activating and Enhancing LLM Capabilities in Time Series](https://arxiv.org/abs/2501.03747v3)** | 2026-01-07 | <details><summary>This ...</summary><p>This paper has been accepted by ICLR 2025</p></details> |
+| **[Prompting Underestimates LLM Capability for Time Series Classification](https://arxiv.org/abs/2601.03464v1)** | 2026-01-06 | <details><summary>8 pag...</summary><p>8 pages + Appendix and References, 9 figures</p></details> |
 | **[STReasoner: Empowering LLMs for Spatio-Temporal Reasoning in Time Series via Spatial-Aware Reinforcement Learning](https://arxiv.org/abs/2601.03248v1)** | 2026-01-06 | <details><summary>prepr...</summary><p>preprint, we release our code publicly at https://github.com/LingFengGold/STReasoner</p></details> |
 | **[A Conversation with Mike West](https://arxiv.org/abs/2512.09790v2)** | 2026-01-06 |  |
-| **[Predicting Time Pressure of Powered Two-Wheeler Riders for Proactive Safety Interventions](https://arxiv.org/abs/2601.03173v1)** | 2026-01-06 | 13 pages, 8 figures |
-| **[Rapid Augmentations for Time Series (RATS): A High-Performance Library for Time Series Augmentation](https://arxiv.org/abs/2601.03159v1)** | 2026-01-06 |  |
-| **[CSAI: Conditional Self-Attention Imputation for Healthcare Time-series](https://arxiv.org/abs/2312.16713v6)** | 2026-01-06 |  |
-| **[Neuronal Attention Circuit (NAC) for Representation Learning](https://arxiv.org/abs/2512.10282v3)** | 2026-01-06 | Ongoing work |
-| **[Time-Aware Synthetic Control](https://arxiv.org/abs/2601.03099v1)** | 2026-01-06 |  |
-| **[Interpretability-Guided Bi-objective Optimization: Aligning Accuracy and Explainability](https://arxiv.org/abs/2601.00655v2)** | 2026-01-06 | 11 pages |
-| **[A Novel Multiple Imputation Approach For Parameter Estimation in Observation-Driven Time Series Models With Missing Data](https://arxiv.org/abs/2601.01259v2)** | 2026-01-06 |  |
-| **[Rationale-Grounded In-Context Learning for Time Series Reasoning with Multimodal Large Language Models](https://arxiv.org/abs/2601.02968v1)** | 2026-01-06 |  |
-| **[LLM-Augmented Changepoint Detection: A Framework for Ensemble Detection and Automated Explanation](https://arxiv.org/abs/2601.02957v1)** | 2026-01-06 |  |
-| **[LoFT-LLM: Low-Frequency Time-Series Forecasting with Large Language Models](https://arxiv.org/abs/2512.20002v2)** | 2026-01-06 | <details><summary>This ...</summary><p>This submission is withdrawn due to internal review and compliance considerations</p></details> |
-| **[Modeling Information Blackouts in Missing Not-At-Random Time Series Data](https://arxiv.org/abs/2601.01480v2)** | 2026-01-06 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 3 tables</p></details> |
-| **[CaTS-Bench: Can Language Models Describe Time Series?](https://arxiv.org/abs/2509.20823v2)** | 2026-01-06 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 3 tables in the main paper. Many more in the appendix</p></details> |
-| **[Domain Generalization for Time Series: Enhancing Drilling Regression Models for Stick-Slip Index Prediction](https://arxiv.org/abs/2601.02884v1)** | 2026-01-06 |  |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Tutorial on Flow-Based Network Traffic Classification Using Machine Learning](https://arxiv.org/abs/2601.04089v1)** | 2026-01-07 | under review |
+| **[AI-Enabled Digital Twins for Next-Generation Networks: Forecasting Traffic and Resource Management in 5G/6G](https://arxiv.org/abs/2510.20796v3)** | 2026-01-07 | <details><summary>Accep...</summary><p>Accepted at IEEE Global Communications Conference (GLOBECOM) 2025</p></details> |
+| **[FÆRDXEL: An Expert System for Danish Traffic Law](https://arxiv.org/abs/2410.03560v2)** | 2026-01-07 | <details><summary>In Pr...</summary><p>In Proceedings ICLP 2025, arXiv:2601.00047</p></details> |
+| **[Detection and Prevention of Process Disruption Attacks in the Electrical Power Systems using MMS Traffic: An EPIC Case](https://arxiv.org/abs/2601.03690v1)** | 2026-01-07 |  |
 | **[A Probabilistic Digital Twin of UK En Route Airspace for Training and Evaluating AI Agents for Air Traffic Control](https://arxiv.org/abs/2601.03113v1)** | 2026-01-06 |  |
 | **[Which Deep Learner? A Systematic Evaluation of Advanced Deep Forecasting Models Accuracy and Efficiency for Network Traffic Prediction](https://arxiv.org/abs/2601.02694v1)** | 2026-01-06 | 19 pages, 13 figures |
 | **[Optimal Oblivious Load-Balancing for Sparse Traffic in Large-Scale Satellite Networks](https://arxiv.org/abs/2601.02537v1)** | 2026-01-05 | <details><summary>To Ap...</summary><p>To Appear in IEEE INFOCOM 2026</p></details> |
@@ -37,14 +41,16 @@ labels: documentation
 | **[Intelligent Traffic Surveillance for Real-Time Vehicle Detection, License Plate Recognition, and Speed Estimation](https://arxiv.org/abs/2601.00344v1)** | 2026-01-01 |  |
 | **[The Weather Paradox: Why Precipitation Fails to Predict Traffic Accident Severity in Large-Scale US Data](https://arxiv.org/abs/2601.00152v1)** | 2026-01-01 | <details><summary>11 pa...</summary><p>11 pages, 8 figures, 0 tables. Preprint, machine learning analysis of 500,000 US traffic accidents</p></details> |
 | **[AutoFed: Manual-Free Federated Traffic Prediction via Personalized Prompt](https://arxiv.org/abs/2512.24625v1)** | 2025-12-31 |  |
-| **[Measuring the Impact of Missingness in Traffic Stop Data](https://arxiv.org/abs/2505.18281v2)** | 2025-12-30 |  |
-| **[Generalising Traffic Forecasting to Regions without Traffic Observations](https://arxiv.org/abs/2508.08947v2)** | 2025-12-30 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[RflyUT-Sim: A Simulation Platform for Development and Testing of Complex Low-Altitude Traffic Control](https://arxiv.org/abs/2512.24112v1)** | 2025-12-30 |  |
-| **[RAST: A Retrieval Augmented Spatio-Temporal Framework for Traffic Prediction](https://arxiv.org/abs/2508.16623v2)** | 2025-12-30 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026 (AI for Social Impact)</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Hierarchical GNN-Based Multi-Agent Learning for Dynamic Queue-Jump Lane and Emergency Vehicle Corridor Formation](https://arxiv.org/abs/2601.04177v1)** | 2026-01-07 | <details><summary>16 Pa...</summary><p>16 Pages, 5 Figures, 9 Tables, submitted to IEEE TITS</p></details> |
+| **[Graph Reinforcement Learning for Power Grids: A Comprehensive Survey](https://arxiv.org/abs/2407.04522v4)** | 2026-01-07 | <details><summary>Accep...</summary><p>Accepted in Energy & AI, in-press</p></details> |
+| **[Dual-Attention Heterogeneous GNN for Multi-robot Collaborative Area Search via Deep Reinforcement Learning](https://arxiv.org/abs/2601.03686v1)** | 2026-01-07 |  |
+| **[InsertGNN: Can Graph Neural Networks Outperform Humans in TOEFL Sentence Insertion Problem?](https://arxiv.org/abs/2103.15066v3)** | 2026-01-07 |  |
+| **[Discovering the Representation Bottleneck of Graph Neural Networks](https://arxiv.org/abs/2205.07266v5)** | 2026-01-07 |  |
+| **[Inductive Graph Representation Learning with Quantum Graph Neural Networks](https://arxiv.org/abs/2503.24111v2)** | 2026-01-07 | 12 pages, 12 figures |
 | **[Heuristic Methods are Good Teachers to Distill MLPs for Graph Link Prediction](https://arxiv.org/abs/2504.06193v2)** | 2026-01-06 |  |
 | **[Explainable Fuzzy GNNs for Leak Detection in Water Distribution Networks](https://arxiv.org/abs/2601.03062v1)** | 2026-01-06 | <details><summary>Accep...</summary><p>Accepted at IFSA-NAFIPS 2025</p></details> |
 | **[Flow Matching and Diffusion Models via PointNet for Generating Fluid Fields on Irregular Geometries](https://arxiv.org/abs/2601.03030v1)** | 2026-01-06 |  |
@@ -54,10 +60,4 @@ labels: documentation
 | **[Shallow- and Deep-fake Image Manipulation Localization Using Vision Mamba and Guided Graph Neural Network](https://arxiv.org/abs/2601.02566v1)** | 2026-01-05 | <details><summary>Under...</summary><p>Under review for journal publication</p></details> |
 | **[SaVe-TAG: LLM-based Interpolation for Long-Tailed Text-Attributed Graphs](https://arxiv.org/abs/2410.16882v4)** | 2026-01-05 | <details><summary>Accep...</summary><p>Accepted KDD 2026 Research Track Paper</p></details> |
 | **[mHC-GNN: Manifold-Constrained Hyper-Connections for Graph Neural Networks](https://arxiv.org/abs/2601.02451v1)** | 2026-01-05 |  |
-| **[Quantized SO(3)-Equivariant Graph Neural Networks for Efficient Molecular Property Prediction](https://arxiv.org/abs/2601.02213v1)** | 2026-01-05 |  |
-| **[ACDZero: Graph-Embedding-Based Tree Search for Mastering Automated Cyber Defense](https://arxiv.org/abs/2601.02196v1)** | 2026-01-05 |  |
-| **[Multi-fidelity graph-based neural networks architectures to learn Navier-Stokes solutions on non-parametrized 2D domains](https://arxiv.org/abs/2601.02157v1)** | 2026-01-05 |  |
-| **[Focus on What Matters: Fisher-Guided Adaptive Multimodal Fusion for Vulnerability Detection](https://arxiv.org/abs/2601.02438v1)** | 2026-01-05 |  |
-| **[GNN-XAR: A Graph Neural Network for Explainable Activity Recognition in Smart Homes](https://arxiv.org/abs/2502.17999v2)** | 2026-01-05 |  |
-| **[Improving Graph Neural Network Training, Defense and Hypergraph Clustering via Adversarial Robustness Evaluation](https://arxiv.org/abs/2412.14738v11)** | 2026-01-05 |  |
 
