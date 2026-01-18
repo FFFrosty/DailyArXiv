@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 16, 2026
+title: Latest 15 Papers - January 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,44 +7,50 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Physically Plausible Multi-System Trajectory Generation and Symmetry Discovery](https://arxiv.org/abs/2509.23003v2)** | 2026-01-14 |  |
-| **[Constraint- and Score-Based Nonlinear Granger Causality Discovery with Kernels](https://arxiv.org/abs/2601.09579v1)** | 2026-01-14 |  |
-| **[Enhancing Large Language Models for Time-Series Forecasting via Vector-Injected In-Context Learning](https://arxiv.org/abs/2601.07903v2)** | 2026-01-14 |  |
-| **[A practical scenario generation method for electricity prices on day-ahead and intraday spot markets](https://arxiv.org/abs/2405.14403v2)** | 2026-01-14 | <details><summary>Manus...</summary><p>Manuscript: 41 pages, 10 figures, 8 tables</p></details> |
-| **[Horizon Activation Mapping for Neural Networks in Time Series Forecasting](https://arxiv.org/abs/2601.02094v2)** | 2026-01-14 |  |
-| **[KnowEEG: Explainable Knowledge Driven EEG Classification](https://arxiv.org/abs/2505.00541v2)** | 2026-01-14 |  |
-| **[White noise testing for functional time series via functional quantile autocorrelation](https://arxiv.org/abs/2601.09371v1)** | 2026-01-14 |  |
-| **[XLinear: A Lightweight and Accurate MLP-Based Model for Long-Term Time Series Forecasting with Exogenous Inputs](https://arxiv.org/abs/2601.09237v1)** | 2026-01-14 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[From Hawkes Processes to Attention: Time-Modulated Mechanisms for Event Sequences](https://arxiv.org/abs/2601.09220v1)** | 2026-01-14 |  |
-| **[Soft Contrastive Learning for Time Series](https://arxiv.org/abs/2312.16424v4)** | 2026-01-14 | ICLR 2024 Spotlight |
-| **[Decoder-only Clustering in Graphs with Dynamic Attributes](https://arxiv.org/abs/2511.04859v2)** | 2026-01-14 |  |
-| **[SAM-Aug: Leveraging SAM Priors for Few-Shot Parcel Segmentation in Satellite Time Series](https://arxiv.org/abs/2601.09110v1)** | 2026-01-14 | 13 pages, 6 figures |
-| **[Meta-learning to Address Data Shift in Time Series Classification](https://arxiv.org/abs/2601.09018v1)** | 2026-01-13 |  |
-| **[zkSTAR: A zero knowledge system for time series attack detection enforcing regulatory compliance in critical infrastructure networks](https://arxiv.org/abs/2510.23060v3)** | 2026-01-13 |  |
-| **[Physics-Guided Counterfactual Explanations for Large-Scale Multivariate Time Series: Application in Scalable and Interpretable SEP Event Prediction](https://arxiv.org/abs/2601.08999v1)** | 2026-01-13 | <details><summary>This ...</summary><p>This is a pre-print of an accepted paper at IEEE BigData 2025, SS 11:Towards an Understanding of Artificial Intelligence: Bridging Theory, Explainability, and Practical Applications</p></details> |
+| **[PMOA-TTS: Introducing the PubMed Open Access Textual Times Series Corpus](https://arxiv.org/abs/2505.20323v2)** | 2026-01-15 |  |
+| **[Data-Driven Dynamic Factor Modeling via Manifold Learning](https://arxiv.org/abs/2506.19945v2)** | 2026-01-15 |  |
+| **[ProbFM: Probabilistic Time Series Foundation Model with Uncertainty Decomposition](https://arxiv.org/abs/2601.10591v1)** | 2026-01-15 | <details><summary>Accep...</summary><p>Accepted for oral presentation at the AI Meets Quantitative Finance Workshop at ICAIF 2025. An enhanced version was accepted for oral presentation at the AI for Time Series Analysis Workshop at AAAI 2026</p></details> |
+| **[Kolmogorov Arnold Networks and Multi-Layer Perceptrons: A Paradigm Shift in Neural Modelling](https://arxiv.org/abs/2601.10563v1)** | 2026-01-15 | <details><summary>13 pa...</summary><p>13 pages, 8 figures, 2 tables</p></details> |
+| **[EvoMorph: Counterfactual Explanations for Continuous Time-Series Extrinsic Regression Applied to Photoplethysmography](https://arxiv.org/abs/2601.10356v1)** | 2026-01-15 |  |
+| **[We Need a More Robust Classifier: Dual Causal Learning Empowers Domain-Incremental Time Series Classification](https://arxiv.org/abs/2601.10312v1)** | 2026-01-15 | <details><summary>This ...</summary><p>This paper has been accepted for publication at ACM WWW 2026</p></details> |
+| **[SERA-H: Beyond Native Sentinel Spatial Limits for High-Resolution Canopy Height Mapping](https://arxiv.org/abs/2512.18128v2)** | 2026-01-15 | <details><summary>17 pa...</summary><p>17 pages, 8 figures, 3 tables</p></details> |
+| **[Inference for Multiple Change-points in Piecewise Locally Stationary Time Series](https://arxiv.org/abs/2601.07400v2)** | 2026-01-15 |  |
+| **[Learning Without Augmenting: Unsupervised Time Series Representation Learning via Frame Projections](https://arxiv.org/abs/2510.22655v2)** | 2026-01-15 | <details><summary>Publi...</summary><p>Published at the Conference on Neural Information Processing Systems (NeurIPS) 2025</p></details> |
+| **[AgriFM: A Multi-source Temporal Remote Sensing Foundation Model for Agriculture Mapping](https://arxiv.org/abs/2505.21357v3)** | 2026-01-15 |  |
+| **[How does downsampling affect needle electromyography signals? A generalisable workflow for understanding downsampling effects on high-frequency time series](https://arxiv.org/abs/2601.10191v1)** | 2026-01-15 |  |
+| **[History Is Not Enough: An Adaptive Dataflow System for Financial Time-Series Synthesis](https://arxiv.org/abs/2601.10143v1)** | 2026-01-15 |  |
+| **[Stock Market Price Prediction using Neural Prophet with Deep Neural Network](https://arxiv.org/abs/2601.05202v2)** | 2026-01-15 |  |
+| **[The Knowable Future: Mapping the Decay of Past-Future Mutual Information Across Forecast Horizons](https://arxiv.org/abs/2601.10006v1)** | 2026-01-15 | <details><summary>19 pa...</summary><p>19 pages with 5 figures</p></details> |
+| **[An Exploratory Study to Repurpose LLMs to a Unified Architecture for Time Series Classification](https://arxiv.org/abs/2601.09971v1)** | 2026-01-15 |  |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Spatial As Deep: Spatial CNN for Traffic Scene Understanding](https://arxiv.org/abs/1712.06080v2)** | 2026-01-15 | <details><summary>Accep...</summary><p>Accepted to AAAI 2018</p></details> |
+| **[Inverse Learning in $2\times2$ Games: From Synthetic Interactions to Traffic Simulation](https://arxiv.org/abs/2601.10367v1)** | 2026-01-15 |  |
+| **[Meta Dynamic Graph for Traffic Flow Prediction](https://arxiv.org/abs/2601.10328v1)** | 2026-01-15 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026</p></details> |
+| **[Evaluating Impacts of Traffic Regulations in Complex Mobility Systems Using Scenario-Based Simulations](https://arxiv.org/abs/2601.07735v2)** | 2026-01-15 |  |
+| **[Bias in the Shadows: Explore Shortcuts in Encrypted Network Traffic Classification](https://arxiv.org/abs/2601.10180v1)** | 2026-01-15 |  |
 | **[Lens: A Knowledge-Guided Foundation Model for Network Traffic](https://arxiv.org/abs/2402.03646v5)** | 2026-01-14 |  |
 | **[A Survey of Security Challenges and Solutions for UAS Traffic Management (UTM) and small Unmanned Aerial Systems (sUAS)](https://arxiv.org/abs/2601.08229v1)** | 2026-01-13 | <details><summary>26 pa...</summary><p>26 pages, 3 figures, 5 tables</p></details> |
 | **[Large-scale Regional Traffic Signal Control Based on Single-Agent Reinforcement Learning](https://arxiv.org/abs/2503.09252v2)** | 2026-01-12 | <details><summary>A cri...</summary><p>A critical error in the methodology. The reported congestion control effects were not caused by the proposed signal timing optimization, but by an incorrect traffic volume scaling factor during evaluation. The traffic demand was not properly amplified, resulting in misleading performance gains. Due to the substantial nature of the error, completion of revisions is not feasible in the short term</p></details> |
 | **[Robust Single-Agent Reinforcement Learning for Regional Traffic Signal Control Under Demand Fluctuations](https://arxiv.org/abs/2511.00549v2)** | 2026-01-12 | <details><summary>A cri...</summary><p>A critical error in the methodology. The reported congestion control effects were not caused by the proposed signal timing optimization, but by an incorrect traffic volume scaling factor during evaluation. The traffic demand was not properly amplified, resulting in misleading performance gains. Due to the substantial nature of the error, completion of revisions is not feasible in the short term</p></details> |
 | **[Single-agent Reinforcement Learning Model for Regional Adaptive Traffic Signal Control](https://arxiv.org/abs/2511.00551v2)** | 2026-01-12 | <details><summary>A cri...</summary><p>A critical error in the methodology. The reported congestion control effects were not caused by the proposed signal timing optimization, but by an incorrect traffic volume scaling factor during evaluation. The traffic demand was not properly amplified, resulting in misleading performance gains. Due to the substantial nature of the error, completion of revisions is not feasible in the short term</p></details> |
-| **[Evaluating Impacts of Traffic Regulations in Complex Mobility Systems Using Scenario-Based Simulations](https://arxiv.org/abs/2601.07735v1)** | 2026-01-12 |  |
 | **[Studying the Role of Synthetic Data for Machine Learning-based Wireless Networks Traffic Forecasting](https://arxiv.org/abs/2601.07646v1)** | 2026-01-12 |  |
 | **[qAttCNN - Self Attention Mechanism for Video QoE Prediction in Encrypted Traffic](https://arxiv.org/abs/2601.06862v1)** | 2026-01-11 |  |
 | **[Synecdoche: Efficient and Accurate In-Network Traffic Classification via Direct Packet Sequential Pattern Matching](https://arxiv.org/abs/2512.21116v2)** | 2026-01-11 | <details><summary>Accep...</summary><p>Accepted by IEEE INFOCOM 2026</p></details> |
 | **[Reinforcement Learning-Guided Dynamic Multi-Graph Fusion for Evacuation Traffic Prediction](https://arxiv.org/abs/2601.06664v1)** | 2026-01-10 |  |
 | **[The Potential of Erroneous Outbound Traffic Analysis to Unveil Silent Internal Anomalies](https://arxiv.org/abs/2601.06280v1)** | 2026-01-09 | <details><summary>Accep...</summary><p>Accepted and presented at ACM IMC 2025 Student Workshop</p></details> |
-| **[EvoQRE: Modeling Bounded Rationality in Safety-Critical Traffic Simulation via Evolutionary Quantal Response Equilibrium](https://arxiv.org/abs/2601.05653v1)** | 2026-01-09 | 11 pages, 5 figures |
-| **[Congestion Mitigation in Vehicular Traffic Networks with Multiple Operational Modalities](https://arxiv.org/abs/2601.05375v1)** | 2026-01-08 | <details><summary>10 pa...</summary><p>10 pages, 4 figures; This is a working draft and can potentially have errors. Any feedback will be greatly appreciated, and will be acknowledged in the subsequent versions</p></details> |
-| **[Knowledge-to-Data: LLM-Driven Synthesis of Structured Network Traffic for Testbed-Free IDS Evaluation](https://arxiv.org/abs/2601.05022v1)** | 2026-01-08 |  |
-| **[Spatial-Temporal Feedback Diffusion Guidance for Controlled Traffic Imputation](https://arxiv.org/abs/2601.04572v1)** | 2026-01-08 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Knowledge Homophily in Large Language Models](https://arxiv.org/abs/2509.23773v2)** | 2026-01-15 |  |
+| **[PLGC: Pseudo-Labeled Graph Condensation](https://arxiv.org/abs/2601.10358v1)** | 2026-01-15 |  |
+| **[A Low-Complexity Architecture for Multi-access Coded Caching Systems with Arbitrary User-cache Access Topology](https://arxiv.org/abs/2601.10175v1)** | 2026-01-15 |  |
+| **[MMPG: MoE-based Adaptive Multi-Perspective Graph Fusion for Protein Representation Learning](https://arxiv.org/abs/2601.10157v1)** | 2026-01-15 |  |
+| **[Attn-JGNN: Attention Enhanced Join-Graph Neural Networks](https://arxiv.org/abs/2510.15583v2)** | 2026-01-14 |  |
+| **[An intelligent agent-based simulation of human mobility in extreme urban morphologies](https://arxiv.org/abs/2507.15143v2)** | 2026-01-14 |  |
 | **[Graph Neural Network Surrogates to leverage Mechanistic Expert Knowledge towards Reliable and Immediate Pandemic Response](https://arxiv.org/abs/2411.06500v4)** | 2026-01-14 | 20 pages, 9 figures |
 | **[Graph Neural Networks, Deep Reinforcement Learning and Probabilistic Topic Modeling for Strategic Multiagent Settings](https://arxiv.org/abs/2511.10501v3)** | 2026-01-14 | 27 pages |
 | **[SGAC: A Graph Neural Network Framework for Imbalanced and Structure-Aware AMP Classification](https://arxiv.org/abs/2412.16276v2)** | 2026-01-14 |  |
@@ -54,10 +60,4 @@ labels: documentation
 | **[Using Subgraph GNNs for Node Classification:an Overlooked Potential Approach](https://arxiv.org/abs/2503.06614v2)** | 2026-01-13 | 16 pages |
 | **[Directed Homophily-Aware Graph Neural Network](https://arxiv.org/abs/2505.22362v3)** | 2026-01-13 |  |
 | **[Temporal-Enhanced Interpretable Multi-Modal Prognosis and Risk Stratification Framework for Diabetic Retinopathy (TIMM-ProRS)](https://arxiv.org/abs/2601.08240v1)** | 2026-01-13 |  |
-| **[GADPN: Graph Adaptive Denoising and Perturbation Networks via Singular Value Decomposition](https://arxiv.org/abs/2601.08230v1)** | 2026-01-13 |  |
-| **[InfGraND: An Influence-Guided GNN-to-MLP Knowledge Distillation](https://arxiv.org/abs/2601.08033v1)** | 2026-01-12 | <details><summary>Accep...</summary><p>Accepted in Transactions on Machine Learning Research (TMLR), 2026</p></details> |
-| **[Geometry-Aware Edge Pooling for Graph Neural Networks](https://arxiv.org/abs/2506.11700v3)** | 2026-01-12 | <details><summary>Accep...</summary><p>Accepted at the 39th Conference on Neural Information Processing Systems (NeurIPS) 2025. Our code is available at https://github.com/aidos-lab/mag_edge_pool</p></details> |
-| **[Rep3Net: An Approach Exploiting Multimodal Representation for Molecular Bioactivity Prediction](https://arxiv.org/abs/2512.00521v2)** | 2026-01-12 |  |
-| **[Symbolic regression for defect interactions in 2D materials](https://arxiv.org/abs/2512.20785v2)** | 2026-01-12 |  |
-| **[Position: Don't be Afraid of Over-Smoothing And Over-Squashing](https://arxiv.org/abs/2601.07419v1)** | 2026-01-12 | <details><summary>Prepr...</summary><p>Preprint. Copyright 2026 by the authors</p></details> |
 
