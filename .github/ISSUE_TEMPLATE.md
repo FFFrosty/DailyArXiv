@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 03, 2026
+title: Latest 15 Papers - February 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[TSAQA: Time Series Analysis Question And Answering Benchmark](https://arxiv.org/abs/2601.23204v1)** | 2026-01-30 | 35 pages, 7 figures |
-| **[RefineBridge: Generative Bridge Models Improve Financial Forecasting by Foundation Models](https://arxiv.org/abs/2512.21572v2)** | 2026-01-30 |  |
-| **[To See Far, Look Close: Evolutionary Forecasting for Long-term Time Series](https://arxiv.org/abs/2601.23114v1)** | 2026-01-30 |  |
-| **[Computationally efficient segmentation for non-stationary time series with oscillatory patterns](https://arxiv.org/abs/2601.22999v1)** | 2026-01-30 |  |
-| **[Integrating Fourier Neural Operators with Diffusion Models to improve Spectral Representation of Synthetic Earthquake Ground Motion Response](https://arxiv.org/abs/2504.00757v2)** | 2026-01-30 | <details><summary>Prese...</summary><p>Presented at D11 - New Technologies (Additive manufacturing, AI, digital twin) D11-TS49 - Machine Learning and Artificial Intelligence 00 - SMiRT 25 - Toronto, Canada. August 10-15, 2025</p></details> |
-| **[Dynamic modelling and evaluation of preclinical trials in acute leukaemia](https://arxiv.org/abs/2601.22971v1)** | 2026-01-30 |  |
-| **[Environment-Conditioned Tail Reweighting for Total Variation Invariant Risk Minimization](https://arxiv.org/abs/2601.22944v1)** | 2026-01-30 | 8 pages |
-| **[Synthetic Time Series Generation via Complex Networks](https://arxiv.org/abs/2601.22879v1)** | 2026-01-30 |  |
-| **[SmartMeterFM: Unifying Smart Meter Data Generative Tasks Using Flow Matching Models](https://arxiv.org/abs/2601.21706v2)** | 2026-01-30 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, 6 tables</p></details> |
-| **[Unconditional flow-based time series generation with equivariance-regularised latent spaces](https://arxiv.org/abs/2601.22848v1)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026</p></details> |
-| **[Wasserstein Geometry of Information Loss in Nonlinear Dynamical Systems](https://arxiv.org/abs/2601.22814v1)** | 2026-01-30 |  |
-| **[ExoMiner++ 2.0: Vetting TESS Full-Frame Image Transit Signals](https://arxiv.org/abs/2601.14877v2)** | 2026-01-30 |  |
-| **[Conformal Prediction Algorithms for Time Series Forecasting: Methods and Benchmarking](https://arxiv.org/abs/2601.18509v2)** | 2026-01-30 |  |
-| **[Diff-MN: Diffusion Parameterized MoE-NCDE for Continuous Time Series Generation with Irregular Observations](https://arxiv.org/abs/2601.13534v2)** | 2026-01-30 | 24 pages |
-| **[QuiZSF: A Retrieval-Augmented Framework for Zero-Shot Time Series Forecasting](https://arxiv.org/abs/2508.06915v2)** | 2026-01-30 |  |
+| **[Online conformal inference for multi-step time series forecasting](https://arxiv.org/abs/2410.13115v2)** | 2026-02-02 |  |
+| **[Future frame prediction in chest and liver cine MRI using the PCA respiratory motion model: comparing transformers and dynamically trained recurrent neural networks](https://arxiv.org/abs/2410.05882v2)** | 2026-02-02 | <details><summary>43 pa...</summary><p>43 pages, 19 figures, revised version (including transformer experiments, evaluation on liver MRI data, statistical analysis...)</p></details> |
+| **[To See Far, Look Close: Evolutionary Forecasting for Long-term Time Series](https://arxiv.org/abs/2601.23114v2)** | 2026-02-02 |  |
+| **[An Optimization Method for Autoregressive Time Series Forecasting](https://arxiv.org/abs/2602.02288v1)** | 2026-02-02 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 2 tables</p></details> |
+| **[StefaLand: An Efficient Geoscience Foundation Model That Improves Dynamic Land-Surface Predictions](https://arxiv.org/abs/2509.17942v3)** | 2026-02-02 |  |
+| **[Interpretability in Deep Time Series Models Demands Semantic Alignment](https://arxiv.org/abs/2602.02239v1)** | 2026-02-02 |  |
+| **[SEDformer: Event-Synchronous Spiking Transformers for Irregular Telemetry Time Series Forecasting](https://arxiv.org/abs/2602.02230v1)** | 2026-02-02 | Under review |
+| **[Back to the Future: Look-ahead Augmentation and Parallel Self-Refinement for Time Series Forecasting](https://arxiv.org/abs/2602.02146v1)** | 2026-02-02 | <details><summary>4 pag...</summary><p>4 pages, Short paper accepted at The Web Conference (WWW) 2026</p></details> |
+| **[Robust Amortized Bayesian Inference with Self-Consistency Losses on Unlabeled Data](https://arxiv.org/abs/2501.13483v5)** | 2026-02-02 | <details><summary>Accep...</summary><p>Accepted to International Conference on Learning Representations (ICLR) 2026</p></details> |
+| **[T-LLM: Teaching Large Language Models to Forecast Time Series via Temporal Distillation](https://arxiv.org/abs/2602.01937v1)** | 2026-02-02 |  |
+| **[Environment-Conditioned Tail Reweighting for Total Variation Invariant Risk Minimization](https://arxiv.org/abs/2601.22944v2)** | 2026-02-02 | 8 pages |
+| **[Designing Time Series Experiments in A/B Testing with Transformer Reinforcement Learning](https://arxiv.org/abs/2602.01853v1)** | 2026-02-02 |  |
+| **[shapr: Explaining Machine Learning Models with Conditional Shapley Values in R and Python](https://arxiv.org/abs/2504.01842v3)** | 2026-02-02 |  |
+| **[Spatio-Temporal Transformers for Long-Term NDVI Forecasting](https://arxiv.org/abs/2602.01799v1)** | 2026-02-02 |  |
+| **[Position: Beyond Model-Centric Prediction -- Agentic Time Series Forecasting](https://arxiv.org/abs/2602.01776v1)** | 2026-02-02 |  |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Accurate Network Traffic Matrix Prediction via LEAD: a Large Language Model-Enhanced Adapter-Based Conditional Diffusion Model](https://arxiv.org/abs/2601.21437v2)** | 2026-02-02 |  |
+| **[Traffic-Aware Navigation in Road Networks](https://arxiv.org/abs/2602.02158v1)** | 2026-02-02 |  |
+| **[Calibrating Adaptive Smoothing Methods for Freeway Traffic Reconstruction](https://arxiv.org/abs/2602.02072v1)** | 2026-02-02 |  |
+| **[PIMCST: Physics-Informed Multi-Phase Consensus and Spatio-Temporal Few-Shot Learning for Traffic Flow Forecasting](https://arxiv.org/abs/2602.01936v1)** | 2026-02-02 |  |
+| **[Things that Matter -- Identifying Interactions and IoT Device Types in Encrypted Matter Traffic](https://arxiv.org/abs/2602.01932v1)** | 2026-02-02 | <details><summary>11 pa...</summary><p>11 pages, 1 figure, 12 tables</p></details> |
+| **[ForSim: Stepwise Forward Simulation for Traffic Policy Fine-Tuning](https://arxiv.org/abs/2602.01916v1)** | 2026-02-02 | <details><summary>Accep...</summary><p>Accepted by ICRA 2026</p></details> |
+| **[TransportAgents: a multi-agents LLM framework for traffic accident severity prediction](https://arxiv.org/abs/2601.15519v2)** | 2026-02-02 |  |
+| **[Effective and Efficient Cross-City Traffic Knowledge Transfer: A Privacy-Preserving Perspective](https://arxiv.org/abs/2503.11963v4)** | 2026-02-01 |  |
+| **[SimGym: Traffic-Grounded Browser Agents for Offline A/B Testing in E-Commerce](https://arxiv.org/abs/2602.01443v1)** | 2026-02-01 |  |
+| **[TF-Lane: Traffic Flow Module for Robust Lane Perception](https://arxiv.org/abs/2602.01277v1)** | 2026-02-01 | <details><summary>9 pag...</summary><p>9 pages, 7 figures, 7 tables</p></details> |
+| **[Versatile Behavior Diffusion for Generalized Traffic Agent Simulation](https://arxiv.org/abs/2404.02524v3)** | 2026-02-01 |  |
+| **[LMTE: Putting the "Reasoning" into WAN Traffic Engineering with Language Models](https://arxiv.org/abs/2602.00941v1)** | 2026-01-31 | <details><summary>Accep...</summary><p>Accepted as a conference paper at IEEE INFOCOM 2026</p></details> |
 | **[FedDis: A Causal Disentanglement Framework for Federated Traffic Prediction](https://arxiv.org/abs/2601.22578v1)** | 2026-01-30 |  |
 | **[Nethira: A Heterogeneity-aware Hierarchical Pre-trained Model for Network Traffic Classification](https://arxiv.org/abs/2601.22494v1)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted for publication at International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2026</p></details> |
 | **[Aligning Microscopic Vehicle and Macroscopic Traffic Statistics: Reconstructing Driving Behavior from Partial Data](https://arxiv.org/abs/2601.22242v1)** | 2026-01-29 |  |
-| **[NetMamba+: A Framework of Pre-trained Models for Efficient and Accurate Network Traffic Classification](https://arxiv.org/abs/2601.21792v1)** | 2026-01-29 |  |
-| **[Accurate Network Traffic Matrix Prediction via LEAD: an LLM-Enhanced Adapter-Based Conditional Diffusion Model](https://arxiv.org/abs/2601.21437v1)** | 2026-01-29 |  |
-| **[Sim-MSTNet: sim2real based Multi-task SpatioTemporal Network Traffic Forecasting](https://arxiv.org/abs/2601.21384v1)** | 2026-01-29 | <details><summary>accep...</summary><p>accepted in ICASSP 2026</p></details> |
-| **[GTA: Generative Traffic Agents for Simulating Realistic Mobility Behavior](https://arxiv.org/abs/2601.16778v2)** | 2026-01-27 | <details><summary>This ...</summary><p>This version has been conditionally accepted at CHI 2026</p></details> |
-| **[Generalizable IoT Traffic Representations for Cross-Network Device Identification](https://arxiv.org/abs/2601.19315v1)** | 2026-01-27 | 15 pages, 15 figures |
-| **[Traffic Engineering in Large-scale Networks with Generalizable Graph Neural Networks](https://arxiv.org/abs/2503.24203v2)** | 2026-01-27 | <details><summary>Accep...</summary><p>Accepted for publication at IEEE Transactions on Networking</p></details> |
-| **[Intent2QoS: Language Model-Driven Automation of Traffic Shaping Configurations](https://arxiv.org/abs/2601.18974v1)** | 2026-01-26 | <details><summary>6 pag...</summary><p>6 page, 4 figures, Accepted to IEEE International Conference on Communications (ICC) 2026</p></details> |
-| **[AI-Driven Fuzzing for Vulnerability Assessment of 5G Traffic Steering Algorithms](https://arxiv.org/abs/2601.18690v1)** | 2026-01-26 |  |
-| **[DecompGAIL: Learning Realistic Traffic Behaviors with Decomposed Multi-Agent Generative Adversarial Imitation Learning](https://arxiv.org/abs/2510.06913v2)** | 2026-01-26 | accepted by ICLR |
-| **[VissimRL: A Multi-Agent Reinforcement Learning Framework for Traffic Signal Control Based on Vissim](https://arxiv.org/abs/2601.18284v1)** | 2026-01-26 |  |
-| **[Evaluating Wi-Fi Performance for VR Streaming: A Study on Realistic HEVC Video Traffic](https://arxiv.org/abs/2601.16950v1)** | 2026-01-23 |  |
-| **[Optimal Oblivious Load-Balancing for Sparse Traffic in Large-Scale Satellite Networks](https://arxiv.org/abs/2601.02537v2)** | 2026-01-23 | <details><summary>To Ap...</summary><p>To Appear in IEEE INFOCOM 2026</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Graph Attention Network for Node Regression on Random Geometric Graphs with Erdős--Rényi contamination](https://arxiv.org/abs/2601.23239v1)** | 2026-01-30 | <details><summary>62 pa...</summary><p>62 pages, 2 figures, 2 tables</p></details> |
-| **[Sequence Diffusion Model for Temporal Link Prediction in Continuous-Time Dynamic Graph](https://arxiv.org/abs/2601.23233v1)** | 2026-01-30 |  |
-| **[Disentangling multispecific antibody function with graph neural networks](https://arxiv.org/abs/2601.23212v1)** | 2026-01-30 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, code available at https://github.com/prescient-design/synapse</p></details> |
-| **[Learning to Execute Graph Algorithms Exactly with Graph Neural Networks](https://arxiv.org/abs/2601.23207v1)** | 2026-01-30 |  |
-| **[Learning and extrapolating scale-invariant processes](https://arxiv.org/abs/2601.14810v2)** | 2026-01-30 | 29p, 22 figures |
-| **[Scalable Topology-Preserving Graph Coarsening with Graph Collapse](https://arxiv.org/abs/2601.22943v1)** | 2026-01-30 |  |
-| **[GNN Explanations that do not Explain and How to find Them](https://arxiv.org/abs/2601.20815v2)** | 2026-01-30 | Accepted at ICLR26 |
-| **[Comparing and Contrasting DLWP Backbones on Navier-Stokes and Atmospheric Dynamics](https://arxiv.org/abs/2407.14129v3)** | 2026-01-30 |  |
-| **[TorchCP: A Python Library for Conformal Prediction](https://arxiv.org/abs/2402.12683v5)** | 2026-01-30 |  |
-| **[Full-Graph vs. Mini-Batch Training: Comprehensive Analysis from a Batch Size and Fan-Out Size Perspective](https://arxiv.org/abs/2601.22678v1)** | 2026-01-30 |  |
-| **[NAG: A Unified Native Architecture for Encoder-free Text-Graph Modeling in Language Models](https://arxiv.org/abs/2601.22657v1)** | 2026-01-30 |  |
-| **[Non-Intrusive Graph-Based Bot Detection for E-Commerce Using Inductive Graph Neural Networks](https://arxiv.org/abs/2601.22579v1)** | 2026-01-30 |  |
-| **[Enhancing Logical Expressiveness in Graph Neural Networks via Path-Neighbor Aggregation](https://arxiv.org/abs/2511.07994v3)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026</p></details> |
-| **[Influence Functions for Edge Edits in Non-Convex Graph Neural Networks](https://arxiv.org/abs/2506.04694v2)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
-| **[Transparent Malware Detection With Granular Assembly Flow Explainability via Graph Neural Networks](https://arxiv.org/abs/2601.14511v2)** | 2026-01-29 |  |
+| **[DFKI-Speech System for WildSpoof Challenge: A robust framework for SASV In-the-Wild](https://arxiv.org/abs/2602.02286v1)** | 2026-02-02 |  |
+| **[Graph Learning via Logic-Based Weisfeiler-Leman Variants and Tabularization](https://arxiv.org/abs/2508.10651v2)** | 2026-02-02 | <details><summary>New v...</summary><p>New version of the manuscript with the following fixes: 1. Clarified proof of the main theorem. 2. Revised the experimental section</p></details> |
+| **[Graph Homomorphism Distortion: A Metric to Distinguish Them All and in the Latent Space Bind Them](https://arxiv.org/abs/2511.03068v3)** | 2026-02-02 |  |
+| **[PIMPC-GNN: Physics-Informed Multi-Phase Consensus Learning for Enhancing Imbalanced Node Classification in Graph Neural Networks](https://arxiv.org/abs/2602.01920v1)** | 2026-02-02 |  |
+| **[Grappa: Gradient-Only Communication for Scalable Graph Neural Network Training](https://arxiv.org/abs/2602.01872v1)** | 2026-02-02 |  |
+| **[Preservation Theorems for Unravelling-Invariant Classes: A Uniform Approach for Modal Logics and Graph Neural Networks](https://arxiv.org/abs/2602.01856v1)** | 2026-02-02 | 13 pages |
+| **[Hyperbolic Graph Neural Networks Under the Microscope: The Role of Geometry-Task Alignment](https://arxiv.org/abs/2602.01828v1)** | 2026-02-02 |  |
+| **[Object-Centric Representation Learning for Enhanced 3D Scene Graph Prediction](https://arxiv.org/abs/2510.04714v3)** | 2026-02-02 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025. Code: https://github.com/VisualScienceLab-KHU/OCRL-3DSSG-Codes</p></details> |
+| **[MGKAN: Predicting Asymmetric Drug-Drug Interactions via a Multimodal Graph Kolmogorov-Arnold Network](https://arxiv.org/abs/2602.01751v1)** | 2026-02-02 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026</p></details> |
+| **[Constructing 3D Rotational Invariance and Equivariance with Symmetric Tensor Networks](https://arxiv.org/abs/2508.12596v2)** | 2026-02-02 |  |
+| **[Plain Transformers are Surprisingly Powerful Link Predictors](https://arxiv.org/abs/2602.01553v1)** | 2026-02-02 |  |
+| **[Qrita: High-performance Top-k and Top-p Algorithm for GPUs using Pivot-based Truncation and Selection](https://arxiv.org/abs/2602.01518v1)** | 2026-02-02 |  |
+| **[When Large Language Models Do Not Work: Online Incivility Prediction through Graph Neural Networks](https://arxiv.org/abs/2512.07684v2)** | 2026-02-01 | 10 pages |
+| **[GraphAllocBench: A Flexible Benchmark for Preference-Conditioned Multi-Objective Policy Learning](https://arxiv.org/abs/2601.20753v2)** | 2026-02-01 |  |
+| **[Key Principles of Graph Machine Learning: Representation, Robustness, and Generalization](https://arxiv.org/abs/2602.01139v1)** | 2026-02-01 | PhD Thesis |
 
