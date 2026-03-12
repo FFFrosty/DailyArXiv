@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 12, 2026
+title: Latest 15 Papers - March 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,28 +7,31 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SignalMC-MED: A Multimodal Benchmark for Evaluating Biosignal Foundation Models on Single-Lead ECG and PPG](https://arxiv.org/abs/2603.09940v1)** | 2026-03-10 | <details><summary>Code ...</summary><p>Code is available at https://github.com/fregu856/SignalMC-MED</p></details> |
-| **[CarbonBench: A Global Benchmark for Upscaling of Carbon Fluxes Using Zero-Shot Learning](https://arxiv.org/abs/2603.09868v1)** | 2026-03-10 |  |
-| **[A Hybrid Quantum-Classical Framework for Financial Volatility Forecasting Based on Quantum Circuit Born Machines](https://arxiv.org/abs/2603.09789v1)** | 2026-03-10 |  |
-| **[GNNs for Time Series Anomaly Detection: An Open-Source Framework and a Critical Evaluation](https://arxiv.org/abs/2603.09675v1)** | 2026-03-10 |  |
-| **[FreqCycle: A Multi-Scale Time-Frequency Analysis Method for Time Series Forecasting](https://arxiv.org/abs/2603.09661v1)** | 2026-03-10 | <details><summary>18 pa...</summary><p>18 pages, 17 figures, accepted to AAAI 2026. Code available at https://github.com/boya-zhang-ai/FreqCycle</p></details> |
-| **[Benchmarking Dataset for Presence-Only Passive Reconnaissance in Wireless Smart-Grid Communications](https://arxiv.org/abs/2603.09590v1)** | 2026-03-10 |  |
-| **[TSFM in-context learning for time-series classification of bearing-health status](https://arxiv.org/abs/2511.15447v2)** | 2026-03-10 | <details><summary>Prepr...</summary><p>Preprint. To appear in the Proceedings of the European Symposium on Artificial Neural Networks (ESANN), 2026</p></details> |
-| **[Temporal-Conditioned Normalizing Flows for Multivariate Time Series Anomaly Detection](https://arxiv.org/abs/2603.09490v1)** | 2026-03-10 |  |
-| **[DendroNN: Dendrocentric Neural Networks for Energy-Efficient Classification of Event-Based Data](https://arxiv.org/abs/2603.09274v1)** | 2026-03-10 | <details><summary>Curre...</summary><p>Currently under review</p></details> |
-| **[FinTexTS: Financial Text-Paired Time-Series Dataset via Semantic-Based and Multi-Level Pairing](https://arxiv.org/abs/2603.02702v2)** | 2026-03-10 | 14 pages |
-| **[Abundant Intelligence and Deficient Demand: A Macro-Financial Stress Test of Rapid AI Adoption](https://arxiv.org/abs/2603.09209v1)** | 2026-03-10 |  |
-| **[Timer-S1: A Billion-Scale Time Series Foundation Model with Serial Scaling](https://arxiv.org/abs/2603.04791v2)** | 2026-03-10 |  |
-| **[Rating Quality of Diverse Time Series Data by Meta-learning from LLM Judgment](https://arxiv.org/abs/2506.01290v2)** | 2026-03-10 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
-| **[Lightweight Time Series Data Valuation on Time Series Foundation Models via In-Context Finetuning](https://arxiv.org/abs/2511.11648v2)** | 2026-03-10 | <details><summary>Accep...</summary><p>Accepted as a full paper at DASFAA 2026 (The 31st International Conference on Database Systems for Advanced Applications)</p></details> |
-| **[Impermanent: A Live Benchmark for Temporal Generalization in Time Series Forecasting](https://arxiv.org/abs/2603.08707v2)** | 2026-03-10 |  |
+| **[Bio-Inspired Self-Supervised Learning for Wrist-worn IMU Signals](https://arxiv.org/abs/2603.10961v1)** | 2026-03-11 |  |
+| **[ECoLAD: Deployment-Oriented Evaluation for Automotive Time-Series Anomaly Detection](https://arxiv.org/abs/2603.10926v1)** | 2026-03-11 | <details><summary>6 pag...</summary><p>6 pages, 3 figures, 5 tables</p></details> |
+| **[Panda: A pretrained forecast model for chaotic dynamics](https://arxiv.org/abs/2505.13755v3)** | 2026-03-11 |  |
+| **[STREAM-VAE: Dual-Path Routing for Slow and Fast Dynamics in Vehicle Telemetry Anomaly Detection](https://arxiv.org/abs/2511.15339v2)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepted to appear in the 2026 IEEE Intelligent Vehicles Symposium (IV 2026), Detroit, MI, USA, June 22-25, 2026. 8 Pages, 4 Figures, 4 Tables</p></details> |
+| **[Surrogate models for nuclear fusion with parametric Shallow Recurrent Decoder Networks: applications to magnetohydrodynamics](https://arxiv.org/abs/2603.10678v1)** | 2026-03-11 |  |
+| **[Conformal prediction for high-dimensional functional time series: Applications to subnational mortality](https://arxiv.org/abs/2603.10674v1)** | 2026-03-11 | <details><summary>23 pa...</summary><p>23 pages, 5 figures, 2 tables</p></details> |
+| **[Position: Beyond Model-Centric Prediction -- Agentic Time Series Forecasting](https://arxiv.org/abs/2602.01776v4)** | 2026-03-11 |  |
+| **[World Model for Battery Degradation Prediction Under Non-Stationary Aging](https://arxiv.org/abs/2603.10527v1)** | 2026-03-11 | 18 pages, 3 figures |
+| **[Causal Attribution of Coastal Water Clarity Degradation to Nickel Processing Expansion at the Indonesia Morowali Industrial Park, Sulawesi](https://arxiv.org/abs/2603.07331v2)** | 2026-03-11 | 19 pages, 8 figures |
+| **[Spatio-Temporal Forecasting of Retaining Wall Deformation: Mitigating Error Accumulation via Multi-Resolution ConvLSTM Stacking Ensemble](https://arxiv.org/abs/2603.10453v1)** | 2026-03-11 | 16 pages, 19 figures |
+| **[Effective Dataset Distillation for Spatio-Temporal Forecasting with Bi-dimensional Compression](https://arxiv.org/abs/2603.10410v1)** | 2026-03-11 | <details><summary>to be...</summary><p>to be published in the 42nd IEEE International Conference on Data Engineering (ICDE '26)</p></details> |
+| **[An operator-level ARCH Model](https://arxiv.org/abs/2603.10272v1)** | 2026-03-10 | <details><summary>48 pa...</summary><p>48 pages, 8 Figures, 2 Tables</p></details> |
+| **[Bayesian Synchronization of Proxy Paleorecords with Reference Chronologies](https://arxiv.org/abs/2603.10218v1)** | 2026-03-10 | 24 pages, 10 figures |
+| **[Hybrid Hidden Markov Model for Modeling Equity Excess Growth Rate Dynamics: A Discrete-State Approach with Jump-Diffusion](https://arxiv.org/abs/2603.10202v1)** | 2026-03-10 |  |
+| **[Time series forecasting with Hahn Kolmogorov-Arnold networks](https://arxiv.org/abs/2601.18837v2)** | 2026-03-10 |  |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AI-Enhanced Spatial Cellular Traffic Demand Prediction with Contextual Clustering and Error Correction for 5G/6G Planning](https://arxiv.org/abs/2603.10800v1)** | 2026-03-11 | <details><summary>5 pag...</summary><p>5 pages, 8 figures. Submitted to IEEE Wireless Communications Letters</p></details> |
+| **[UAV traffic scene understanding: A cross-spectral guided approach and a unified benchmark](https://arxiv.org/abs/2603.10722v1)** | 2026-03-11 |  |
 | **[Multi-model approach for autonomous driving: A comprehensive study on traffic sign-, vehicle- and lane detection and behavioral cloning](https://arxiv.org/abs/2603.09255v1)** | 2026-03-10 | 35 pages, 40 figures |
 | **[Differentiable Stochastic Traffic Dynamics: Physics-Informed Generative Modelling in Transportation](https://arxiv.org/abs/2603.09174v1)** | 2026-03-10 | 29 pages |
 | **[NetDiffuser: Deceiving DNN-Based Network Attack Detection Systems with Diffusion-Generated Adversarial Traffic](https://arxiv.org/abs/2603.08901v1)** | 2026-03-09 |  |
+| **[Where Do Flow Semantics Reside? A Protocol-Native Tabular Pretraining Paradigm for Encrypted Traffic Classification](https://arxiv.org/abs/2603.10051v1)** | 2026-03-09 |  |
 | **[Network Traffic Analysis with Process Mining: The UPSIDE Case Study](https://arxiv.org/abs/2512.23718v2)** | 2026-03-09 | <details><summary>Accep...</summary><p>Accepted to the 2026 IEEE International Instrumentation and Measurement Technology Conference (I2MTC 2026)</p></details> |
 | **[A Lightweight Traffic Map for Efficient Anytime LaCAM*](https://arxiv.org/abs/2603.07891v1)** | 2026-03-09 |  |
 | **[Traffic-MLLM: Curiosity-Regularized Supervised Learning for Traffic Scenario Case-Based Reasoning](https://arxiv.org/abs/2509.11165v2)** | 2026-03-07 |  |
@@ -38,26 +41,23 @@ labels: documentation
 | **[Drone Air Traffic Control: Tracking a Set of Moving Objects with Minimal Power](https://arxiv.org/abs/2603.05286v1)** | 2026-03-05 | 8 pages, 11 figures |
 | **[Scaling Real-Time Traffic Analytics on Edge-Cloud Fabrics for City-Scale Camera Networks](https://arxiv.org/abs/2603.05217v1)** | 2026-03-05 | <details><summary>Accep...</summary><p>Accepted at TCSC SCALE Challenge 2026. To appear in the Proceedings of IEEE/ACM CCGRID Workshops, Sydney, 2026</p></details> |
 | **[Right in Time: Reactive Reasoning in Regulated Traffic Spaces](https://arxiv.org/abs/2603.03977v1)** | 2026-03-04 |  |
-| **[Dual-Interaction-Aware Cooperative Control Strategy for Alleviating Mixed Traffic Congestion](https://arxiv.org/abs/2603.03848v1)** | 2026-03-04 |  |
-| **[Hazard-Aware Traffic Scene Graph Generation](https://arxiv.org/abs/2603.03584v1)** | 2026-03-03 |  |
-| **[GAN-Based Single-Stage Defense for Traffic Sign Classification Under Adversarial Patch](https://arxiv.org/abs/2503.12567v2)** | 2026-03-03 | <details><summary>This ...</summary><p>This work has been submitted to a peer-reviewed journal and is currently under review</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Federated Learning-driven Beam Management in LEO 6G Non-Terrestrial Networks](https://arxiv.org/abs/2603.10983v1)** | 2026-03-11 | <details><summary>2 pag...</summary><p>2 pages with 2 figures and 1 table. Accepted in 2026 International Applied Computational Electromagnetics Society (ACES) Symposium</p></details> |
+| **[Resource Allocation in Hybrid Radio-Optical IoT Networks using GNN with Multi-task Learning](https://arxiv.org/abs/2511.07428v2)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepted for publications in IEEE Transactions on Machine Learning in Communications and Networking (TMLCN) 20 pages, 17 figures, 3 tables</p></details> |
+| **[Maximum entropy temporal networks](https://arxiv.org/abs/2509.02098v5)** | 2026-03-11 | 7 pages, 4 figures |
+| **[Towards Intelligent Spectrum Management: Spectrum Demand Estimation Using Graph Neural Networks](https://arxiv.org/abs/2603.10802v1)** | 2026-03-11 | <details><summary>13 pa...</summary><p>13 pages, 10 figures. Submitted to IEEE Transactions on Machine Learning in Communications and Networking</p></details> |
+| **[Benchmarking Graph Neural Networks in Solving Hard Constraint Satisfaction Problems](https://arxiv.org/abs/2602.18419v2)** | 2026-03-11 |  |
+| **[Spatio-Temporal Attention Graph Neural Network: Explaining Causalities With Attention](https://arxiv.org/abs/2603.10676v1)** | 2026-03-11 | 33 pages, 7 figures |
+| **[SCORE: Replacing Layer Stacking with Contractive Recurrent Depth](https://arxiv.org/abs/2603.10544v1)** | 2026-03-11 | <details><summary>32 pa...</summary><p>32 pages, 21 figures, 12 tableaux</p></details> |
+| **[GaLoRA: Parameter-Efficient Graph-Aware LLMs for Node Classification](https://arxiv.org/abs/2603.10298v1)** | 2026-03-11 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 11 tables, 39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop</p></details> |
+| **[Estimating condition number with Graph Neural Networks](https://arxiv.org/abs/2603.10277v1)** | 2026-03-10 |  |
+| **[Octopus-inspired Distributed Control for Soft Robotic Arms: A Graph Neural Network-Based Attention Policy with Environmental Interaction](https://arxiv.org/abs/2603.10198v1)** | 2026-03-10 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 2 tables, submitted for IROS 2026</p></details> |
 | **[GNNs for Time Series Anomaly Detection: An Open-Source Framework and a Critical Evaluation](https://arxiv.org/abs/2603.09675v1)** | 2026-03-10 |  |
 | **[Provable Filter for Real-world Graph Clustering](https://arxiv.org/abs/2403.03666v2)** | 2026-03-10 | <details><summary>14 pa...</summary><p>14 pages, 10 figures, accepted by IEEE Cybernetics</p></details> |
 | **[Molecular Fingerprints Are Strong Models for Peptide Function Prediction](https://arxiv.org/abs/2501.17901v3)** | 2026-03-10 |  |
 | **[Automatic Paper Reviewing with Heterogeneous Graph Reasoning over LLM-Simulated Reviewer-Author Debates](https://arxiv.org/abs/2511.08317v2)** | 2026-03-10 |  |
 | **[CIGPose: Causal Intervention Graph Neural Network for Whole-Body Pose Estimation](https://arxiv.org/abs/2603.09418v1)** | 2026-03-10 | <details><summary>The p...</summary><p>The paper is accepted by CVPR 2026</p></details> |
-| **[Morphological-Symmetry-Equivariant Heterogeneous Graph Neural Network for Robotic Dynamics Learning](https://arxiv.org/abs/2412.01297v3)** | 2026-03-10 |  |
-| **[Multimodal Graph Representation Learning with Dynamic Information Pathways](https://arxiv.org/abs/2603.09258v1)** | 2026-03-10 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, 6 tables</p></details> |
-| **[Enhancing Heterogeneous Multi-Agent Cooperation in Decentralized MARL via GNN-driven Intrinsic Rewards](https://arxiv.org/abs/2408.06503v3)** | 2026-03-10 | <details><summary>Full ...</summary><p>Full paper version for AAMAS 2025, 9 pages, 5 figures</p></details> |
-| **[RF-Informed Graph Neural Networks for Accurate and Data-Efficient Circuit Performance Prediction](https://arxiv.org/abs/2508.16403v2)** | 2026-03-10 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[$P^2$GNN: Two Prototype Sets to boost GNN Performance](https://arxiv.org/abs/2603.09195v1)** | 2026-03-10 |  |
-| **[MolCrystalFlow: Molecular Crystal Structure Prediction via Flow Matching](https://arxiv.org/abs/2602.16020v3)** | 2026-03-09 | <details><summary>20 pa...</summary><p>20 pages, 4 figures. 14 pages in SI. Code: https://github.com/Liu-Group-UF/MolCrystalFlow</p></details> |
-| **[Scalable Message Passing Neural Networks: No Need for Attention in Large Graph Representation Learning](https://arxiv.org/abs/2411.00835v2)** | 2026-03-09 |  |
-| **[Characterization and upgrade of a quantum graph neural network for charged particle tracking](https://arxiv.org/abs/2603.08667v1)** | 2026-03-09 | <details><summary>16 to...</summary><p>16 total pages, 15 figures</p></details> |
-| **[The Role of Feature Interactions in Graph-based Tabular Deep Learning](https://arxiv.org/abs/2510.04543v2)** | 2026-03-09 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, accepted at TMLR 2026</p></details> |
-| **[mmGAT: Pose Estimation by Graph Attention with Mutual Features from mmWave Radar Point Cloud](https://arxiv.org/abs/2603.08551v1)** | 2026-03-09 | <details><summary>copyr...</summary><p>copyright 2026 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
 
