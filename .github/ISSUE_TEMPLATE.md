@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 19, 2026
+title: Latest 15 Papers - March 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,27 +7,31 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Localized Sparse Principal Component Analysis of Multivariate Time Series in Frequency Domain](https://arxiv.org/abs/2408.08177v3)** | 2026-03-18 | 63 pages, 6 figures |
+| **[End-to-end data-driven prediction of urban airflow and pollutant dispersion](https://arxiv.org/abs/2603.17606v1)** | 2026-03-18 | 22 pages, 22 figures |
+| **[Fast and scalable inference in hidden Markov models with Gaussian fields](https://arxiv.org/abs/2603.17469v1)** | 2026-03-18 | 37 pages, 13 figures |
+| **[Time Tracker: Mixture-of-Experts-Enhanced Foundation Time Series Forecasting Model with Decoupled Training Pipelines](https://arxiv.org/abs/2505.15151v2)** | 2026-03-18 |  |
+| **[Baguan-TS: A Sequence-Native In-Context Learning Model for Time Series Forecasting with Covariates](https://arxiv.org/abs/2603.17439v1)** | 2026-03-18 |  |
+| **[TimeAPN: Adaptive Amplitude-Phase Non-Stationarity Normalization for Time Series Forecasting](https://arxiv.org/abs/2603.17436v1)** | 2026-03-18 |  |
+| **[The Phasor Transformer: Resolving Attention Bottlenecks on the Unit Circle](https://arxiv.org/abs/2603.17433v1)** | 2026-03-18 |  |
+| **[PhasorFlow: A Python Library for Unit Circle Based Computing](https://arxiv.org/abs/2603.15886v2)** | 2026-03-18 |  |
+| **[Improving causal inference in interrupted time series analysis: the triple difference design](https://arxiv.org/abs/2603.17281v1)** | 2026-03-18 |  |
+| **[Difference-Based High-Dimensional Long-Run Covariance Matrix Estimation for Mean-shift Time Series](https://arxiv.org/abs/2603.17226v1)** | 2026-03-18 |  |
+| **[An operator-level ARCH Model](https://arxiv.org/abs/2603.10272v2)** | 2026-03-17 | <details><summary>48 pa...</summary><p>48 pages, 8 Figures, 2 Tables</p></details> |
+| **[Integrating Inductive Biases in Transformers via Distillation for Financial Time Series Forecasting](https://arxiv.org/abs/2603.16985v1)** | 2026-03-17 | 18 pages, 6 figures |
 | **[Bridging the High-Frequency Data Gap: A Millisecond-Resolution Network Dataset for Advancing Time Series Foundation Models](https://arxiv.org/abs/2603.16497v1)** | 2026-03-17 |  |
 | **[Confidence Intervals for Extinction Risk: Validating Population Viability Analysis with Limited Data](https://arxiv.org/abs/2509.09965v2)** | 2026-03-17 | <details><summary>151 p...</summary><p>151 pages, 32 figures, 30 tables</p></details> |
 | **[A nonparametric approach to understand multivariate quantile dynamics in financial time series](https://arxiv.org/abs/2603.16400v1)** | 2026-03-17 |  |
-| **[Bounds on inequality with incomplete data](https://arxiv.org/abs/2512.07709v2)** | 2026-03-17 |  |
-| **[Unpaired Cross-Domain Calibration of DMSP to VIIRS Nighttime Light Data Based on CUT Network](https://arxiv.org/abs/2603.16385v1)** | 2026-03-17 | <details><summary>16 pa...</summary><p>16 pages, 10 figures, 8 tables. Submitted to Remote Sensing of Environment. Code and data available at: https://github.com/[your-repo-link]</p></details> |
-| **[Domain-Oriented Time Series Inference Agents for Reasoning and Automated Analysis](https://arxiv.org/abs/2410.04047v5)** | 2026-03-17 |  |
-| **[Mixed difference integer-valued GARCH model for $ \mathbb{Z}$-valued time series](https://arxiv.org/abs/2603.13784v2)** | 2026-03-17 | 61 pages, 8 figures |
-| **[Zero-Shot Time Series Foundation Models for Annual Institutional Forecasting Under Data Sparsity](https://arxiv.org/abs/2602.12120v2)** | 2026-03-17 | <details><summary>32 pa...</summary><p>32 pages, 5 figures, 3 tables</p></details> |
-| **[Optimizing Hospital Capacity During Pandemics: A Dual-Component Framework for Strategic Patient Relocation](https://arxiv.org/abs/2603.15960v1)** | 2026-03-16 | <details><summary>6 pag...</summary><p>6 pages. Published in Proceedings of the IISE Annual Conference & Expo 2025. DOI: 10.21872/2025IISE_6202</p></details> |
-| **[Data-Local Autonomous LLM-Guided Neural Architecture Search for Multiclass Multimodal Time-Series Classification](https://arxiv.org/abs/2603.15939v1)** | 2026-03-16 |  |
-| **[PhasorFlow: A Python Library for Unit Circle Based Computing](https://arxiv.org/abs/2603.15886v1)** | 2026-03-16 |  |
-| **[A Novel Multiple Imputation Approach For Parameter Estimation in Observation-Driven Time Series Models With Missing Data](https://arxiv.org/abs/2601.01259v3)** | 2026-03-16 | <details><summary>This ...</summary><p>This version presents the large sample theory for the proposed method, showing its strong consistency under mild assumptions, regardless of the amount of missing data or the its generating mechanism</p></details> |
-| **[LLM-Augmented Changepoint Detection: A Framework for Ensemble Detection and Automated Explanation](https://arxiv.org/abs/2601.02957v2)** | 2026-03-16 |  |
-| **[Overcoming the Modality Gap in Context-Aided Forecasting](https://arxiv.org/abs/2603.12451v2)** | 2026-03-16 |  |
-| **[Time-Aware Prior Fitted Networks for Zero-Shot Forecasting with Exogenous Variables](https://arxiv.org/abs/2603.15802v1)** | 2026-03-16 |  |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Interpretable Traffic Responsibility from Dashcam Video via Legal Multi Agent Reasoning](https://arxiv.org/abs/2603.17930v1)** | 2026-03-18 |  |
+| **[Multi-Source Human-in-the-Loop Digital Twin Testbed for Connected and Autonomous Vehicles in Mixed Traffic Flow](https://arxiv.org/abs/2603.17751v1)** | 2026-03-18 |  |
+| **[Deanonymizing Bitcoin Transactions via Network Traffic Analysis with Semi-supervised Learning](https://arxiv.org/abs/2603.17261v1)** | 2026-03-18 |  |
 | **[Long-Horizon Traffic Forecasting via Incident-Aware Conformal Spatio-Temporal Transformers](https://arxiv.org/abs/2603.16857v1)** | 2026-03-17 |  |
 | **[Fine-Grained Network Traffic Classification with Contextual QoS Profiling](https://arxiv.org/abs/2603.16748v1)** | 2026-03-17 | <details><summary>Submi...</summary><p>Submitted to an IEEE Transaction</p></details> |
+| **[Behavior-Centric Extraction of Scenarios from Highway Traffic Data and their Domain-Knowledge-Guided Clustering using CVQ-VAE](https://arxiv.org/abs/2603.16964v1)** | 2026-03-17 | <details><summary>Accep...</summary><p>Accepted as a conference paper in IEEE Intelligent Vehicles Symposium (IV) 2026, Detroit, MI, United States</p></details> |
 | **[An Intention-driven Lane Change Framework Considering Heterogeneous Dynamic Cooperation in Mixed-traffic Environment](https://arxiv.org/abs/2509.22550v4)** | 2026-03-17 |  |
 | **[Detection of Autonomous Shuttles in Urban Traffic Images Using Adaptive Residual Context](https://arxiv.org/abs/2603.15404v1)** | 2026-03-16 | 10 pages, 6 figures |
 | **[Evaluating the Robustness of Reinforcement Learning based Adaptive Traffic Signal Control](https://arxiv.org/abs/2603.15283v1)** | 2026-03-16 |  |
@@ -37,14 +41,15 @@ labels: documentation
 | **[Traffic and weather driven hybrid digital twin for bridge monitoring](https://arxiv.org/abs/2603.14028v1)** | 2026-03-14 | <details><summary>8 pag...</summary><p>8 pages, 4 Figures, International Association for Bridge Maintenance and Safety IABMAS 2026</p></details> |
 | **[Distributed Acoustic Sensing for Urban Traffic Monitoring: Spatio-Temporal Attention in Recurrent Neural Networks](https://arxiv.org/abs/2603.13903v1)** | 2026-03-14 |  |
 | **[NetSpatial: Spatially Conditional Traffic Generation for Cellular Planning and Operations](https://arxiv.org/abs/2603.13839v1)** | 2026-03-14 | 15 pages, 12 figures |
-| **[UAV traffic scene understanding: A regulation embedded multi-modal network and a unified benchmark](https://arxiv.org/abs/2603.10722v2)** | 2026-03-14 |  |
-| **[Architectural Selection Framework for Synthetic Network Traffic: Quantifying the Fidelity-Utility Trade-off](https://arxiv.org/abs/2410.16326v3)** | 2026-03-13 |  |
-| **[Spatial PDE-aware Selective State-space with Nested Memory for Mobile Traffic Grid Forecasting](https://arxiv.org/abs/2603.12353v1)** | 2026-03-12 |  |
-| **[A Robust and Efficient Multi-Agent Reinforcement Learning Framework for Traffic Signal Control](https://arxiv.org/abs/2603.12096v1)** | 2026-03-12 | <details><summary>12 pa...</summary><p>12 pages, 4 tables, 8 figures. Under review in the 31st ITS World Congress 2026</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Exact Generalisation Error Exposes Benchmarks Skew Graph Neural Networks Success (or Failure)](https://arxiv.org/abs/2509.10337v2)** | 2026-03-18 |  |
+| **[ReLaGS: Relational Language Gaussian Splatting](https://arxiv.org/abs/2603.17605v1)** | 2026-03-18 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
+| **[Per-Domain Generalizing Policies: On Learning Efficient and Robust Q-Value Functions (Extended Version with Technical Appendix)](https://arxiv.org/abs/2603.17544v1)** | 2026-03-18 |  |
+| **[HighAir: A Hierarchical Graph Neural Network-Based Air Quality Forecasting Method](https://arxiv.org/abs/2101.04264v2)** | 2026-03-18 |  |
+| **[MSGCN: Multiplex Spatial Graph Convolution Network for Interlayer Link Weight Prediction](https://arxiv.org/abs/2504.17749v2)** | 2026-03-17 |  |
 | **[Predicting Biomedical Interactions with Probabilistic Model Selection for Graph Neural Networks](https://arxiv.org/abs/2211.13231v3)** | 2026-03-17 |  |
 | **[RaDAR: Relation-aware Diffusion-Asymmetric Graph Contrastive Learning for Recommendation](https://arxiv.org/abs/2603.16800v1)** | 2026-03-17 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. Accepted at WWW 2026</p></details> |
 | **[Fine-Grained Network Traffic Classification with Contextual QoS Profiling](https://arxiv.org/abs/2603.16748v1)** | 2026-03-17 | <details><summary>Submi...</summary><p>Submitted to an IEEE Transaction</p></details> |
@@ -55,9 +60,4 @@ labels: documentation
 | **[LogicXGNN: Grounded Logical Rules for Explaining Graph Neural Networks](https://arxiv.org/abs/2503.19476v5)** | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
 | **[Low-Complexity and Consistent Graphon Estimation from Multiple Networks](https://arxiv.org/abs/2603.15578v1)** | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted at AISTATS 2026</p></details> |
 | **[Identifying the Group to Intervene on to Maximise Effect Under Cross-Group Interference](https://arxiv.org/abs/2603.11059v2)** | 2026-03-16 | 9 pages |
-| **[CrossADR: enhancing adverse drug reactions prediction for combination pharmacotherapy with cross-layer feature integration and cross-level associative learning](https://arxiv.org/abs/2603.15047v1)** | 2026-03-16 |  |
-| **[TopoVST: Toward Topology-fidelitous Vessel Skeleton Tracking](https://arxiv.org/abs/2603.14909v1)** | 2026-03-16 | <details><summary>10 pa...</summary><p>10 pages, 9 figures. Under Review</p></details> |
-| **[IgPose: A Generative Data-Augmented Pipeline for Robust Immunoglobulin-Antigen Binding Prediction](https://arxiv.org/abs/2603.14870v1)** | 2026-03-16 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, Bioinformatics</p></details> |
-| **[Lost in Aggregation: On a Fundamental Expressivity Limit of Message-Passing Graph Neural Networks](https://arxiv.org/abs/2603.14846v1)** | 2026-03-16 |  |
-| **[Preserving Continuous Symmetry in Discrete Spaces: Geometric-Aware Quantization for SO(3)-Equivariant GNNs](https://arxiv.org/abs/2603.05343v2)** | 2026-03-16 |  |
 
