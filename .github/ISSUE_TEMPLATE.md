@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 10, 2026
+title: Latest 15 Papers - July 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,27 +7,29 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Calibrated Persistent-Laplacian CUSUM for Online Change-Point Detection](https://arxiv.org/abs/2607.08635v1)** | 2026-07-09 | 41 pages, 9 figures |
+| **[GrowFields: Compositional 4D Neural Fields for Topology-Changing Plant Growth](https://arxiv.org/abs/2607.03330v2)** | 2026-07-09 | <details><summary>ECCV ...</summary><p>ECCV 2026 paper (main conference). v2 corrects the vertical guide lines in supplementary Figures 5-7. Project page and code available at https://joaquin-gajardo.github.io/growfields/</p></details> |
+| **[CAAD: Causality-Aware Multivariate Time Series Anomaly Detection via Multi-Scale Alignment and Structural Causal Consistency](https://arxiv.org/abs/2607.08555v1)** | 2026-07-09 | <details><summary>Accep...</summary><p>Accepted at KDD 2026 (Research Track)</p></details> |
+| **[Frequency-Domain Multi-Modality Transportation Modeling](https://arxiv.org/abs/2607.08475v1)** | 2026-07-09 | <details><summary>Accep...</summary><p>Accepted by KDD 2026 Research Track</p></details> |
+| **[Koopman-informed recurrent neural networks](https://arxiv.org/abs/2410.23467v3)** | 2026-07-09 |  |
+| **[Precise localization within the GI tract by combining classification of CNNs and time-series analysis of HMMs](https://arxiv.org/abs/2310.07895v2)** | 2026-07-09 | <details><summary>Accep...</summary><p>Accepted at MLMI 2023, Code on Github: https://github.com/juliawerner/cnn-hmm-viterbi</p></details> |
+| **[glmSTARMA -- An R-Package for fitting autoregressive spatio-temporal models following generalized linear models](https://arxiv.org/abs/2607.08276v1)** | 2026-07-09 | 63 pages, 20 figures |
+| **[RhyMix: A Lightweight Adaptive Multi-Rhythm Network for Long-Term Time Series Forecasting](https://arxiv.org/abs/2607.08234v1)** | 2026-07-09 | 38 Pages |
+| **[The Phasor Transformer: Resolving Attention Bottlenecks on the Unit Circle](https://arxiv.org/abs/2603.17433v2)** | 2026-07-09 |  |
+| **[PhasorFlow: A Python Library for Unit Circle Based Computing](https://arxiv.org/abs/2603.15886v3)** | 2026-07-09 |  |
+| **[PARA-PV: Physics-Aware Retrieval-Augmented PV Prediction Based on Frozen Foundation Model and Distribution Shift Correction](https://arxiv.org/abs/2607.08079v1)** | 2026-07-09 |  |
+| **[Evaluating the Generalizability of Foundation Models for Extreme Environmental Events: Case Study of California Wildfire PM2.5](https://arxiv.org/abs/2607.07951v1)** | 2026-07-08 |  |
+| **[Beta Regression with Autoregressive Errors for Interrupted Time Series Analysis of Proportion and Rate Outcomes: A Simulation Study](https://arxiv.org/abs/2607.07914v1)** | 2026-07-08 |  |
 | **[Data-Driven Forecasting of three-Component Seismograms Using Transformer Architectures](https://arxiv.org/abs/2606.02912v2)** | 2026-07-08 | <details><summary>35 pa...</summary><p>35 pages, 13 figures and 4 tables. Submitted to JGR: Machine Learning and Computation</p></details> |
 | **[ALER-TI: Aligned Latent Embedding Retrieval for Time Series Imputation](https://arxiv.org/abs/2607.07640v1)** | 2026-07-08 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 12 tables</p></details> |
-| **[QCNN with Rough Path Signature Kernels](https://arxiv.org/abs/2607.07634v1)** | 2026-07-08 |  |
-| **[L-GTA: Latent Generative Modeling for Time Series Augmentation](https://arxiv.org/abs/2507.23615v2)** | 2026-07-08 |  |
-| **[TimEE: End-to-end Time Series Classification via In-Context Learning](https://arxiv.org/abs/2607.07500v1)** | 2026-07-08 |  |
-| **[$T^{3}S$: Think in Thermal Time for Generalizable Crop Mapping from Satellite Image Time Series](https://arxiv.org/abs/2506.12885v4)** | 2026-07-08 | under review |
-| **[Infinite hidden Markov models for cylindrical data](https://arxiv.org/abs/2607.07464v1)** | 2026-07-08 |  |
-| **[Anomaly detection in time-series via inductive biases in the latent space of conditional normalizing flows](https://arxiv.org/abs/2603.11756v2)** | 2026-07-08 |  |
-| **[A study of holes: Topological analysis reveals crowd dynamics regimes in a bidirectional corridor scenario](https://arxiv.org/abs/2607.06086v2)** | 2026-07-08 | <details><summary>Prese...</summary><p>Presented at Traffic and Granular Flow 2026 (TGF26)</p></details> |
-| **[FMMVCC: Fuzzy Mamba-based Multi-View Contrastive Clustering for Univariate Time Series](https://arxiv.org/abs/2607.07258v1)** | 2026-07-08 |  |
-| **[Physically-Relevant Information Learning in High-Dimensional Time-Derivatives Spaces](https://arxiv.org/abs/2607.05127v3)** | 2026-07-08 |  |
-| **[ShapeTalk: Combining Natural Language and Sketch for Time-Series Pattern Querying](https://arxiv.org/abs/2607.07073v1)** | 2026-07-08 | <details><summary>10 pa...</summary><p>10 pages of main text, 2 pages of references, and 20 pages of appendices</p></details> |
-| **[Tensorized algorithms and scalable filtering methods for hidden Markov and factorial hidden Markov models](https://arxiv.org/abs/2607.07008v1)** | 2026-07-08 | 23 pages, 3 figures |
-| **[Rethinking Multimodal Time-Series Forecasting Evaluation](https://arxiv.org/abs/2607.06973v1)** | 2026-07-08 |  |
-| **[Multivariate Bayesian P-spline estimation of spectral density matrices, with application to LISA TDI noise](https://arxiv.org/abs/2607.04833v2)** | 2026-07-07 | 15 pages, 4 figures |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DRIFT: Risk-Constrained Diffusion with Imitation Priors for Mixed-Autonomy Traffic Generation](https://arxiv.org/abs/2606.16589v2)** | 2026-07-09 | <details><summary>19 pa...</summary><p>19 pages, 8 figures, 16 tables</p></details> |
 | **[Mobile Application Traffic Reveals Multifunctional Use Patterns in Parisian Parks](https://arxiv.org/abs/2508.15516v4)** | 2026-07-08 |  |
 | **[Multimodal Spatiotemporal-Frequency Fusion with Peak Enhancement for Cellular Traffic Forecasting](https://arxiv.org/abs/2607.07016v1)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted in the 2026 IEEE International Conference on Systems, Man, and Cybernetics (SMC)</p></details> |
+| **[Controllability-Aware Adversarial Examples Against LLM-Based Network Traffic Classifiers](https://arxiv.org/abs/2607.07739v1)** | 2026-07-08 | 13 pages, 5 figures |
 | **[Multi-view Correlation-aware Network Traffic Detection on Flow Hypergraph](https://arxiv.org/abs/2501.08610v2)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted by IEEE Internet of Things Journal</p></details> |
 | **[Traffic-MoE: A Sparse Foundation Model for Network Traffic Security Analysis](https://arxiv.org/abs/2601.00357v2)** | 2026-07-08 |  |
 | **[Flow-ERD: Agent-type Aware Flow Matching with Entropy-Regularized Distillation for Diverse Traffic Simulation](https://arxiv.org/abs/2607.06957v1)** | 2026-07-08 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 2 tables</p></details> |
@@ -39,31 +41,33 @@ labels: documentation
 | **[Beyond Scene Priors: Fine-Grained Traffic Scene Reasoning with Benchmarking and Query-Guided Small-Object Focus](https://arxiv.org/abs/2607.04149v1)** | 2026-07-05 |  |
 | **[Deep Learning Network-Temporal Models For Traffic Prediction](https://arxiv.org/abs/2603.11475v2)** | 2026-07-05 |  |
 | **[A Digital Twin Framework for Traffic-Aware UAV Pavement Monitoring in Open-Traffic Conditions](https://arxiv.org/abs/2606.20742v2)** | 2026-07-04 | <details><summary>Accep...</summary><p>Accepted for publication in the proceedings of the 6th Annual IEEE International Conference on Digital Twins and Parallel Intelligence (DTPI 2026)</p></details> |
-| **[A Large-Scale Dataset and a New Method for RemoteSensing Traffic Object Segmentation](https://arxiv.org/abs/2607.03945v1)** | 2026-07-04 |  |
-| **[Explainable Reinforcement Learning for Adaptive Traffic Signal Control](https://arxiv.org/abs/2607.03703v1)** | 2026-07-04 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EdgeRefine: Privacy-Utility Balance for Graphs via Jaccard Sampling under Edge Differential Privacy](https://arxiv.org/abs/2607.08659v1)** | 2026-07-09 |  |
+| **[Spatio-Temporal Scheduling Prediction Under Backhaul Delay for Resilient Coordinated Beamforming](https://arxiv.org/abs/2607.08454v1)** | 2026-07-09 |  |
+| **[Optimization and Deep Learning based Resource Allocation for UAV-Aided Wireless Communication with Rotatable Antenna Array](https://arxiv.org/abs/2607.08420v1)** | 2026-07-09 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Bridging Cognitive Neuroscience and Graph Intelligence: Hippocampus-Inspired Multi-View Hypergraph Learning for Web Finance Fraud](https://arxiv.org/abs/2601.11073v3)** | 2026-07-09 |  |
+| **[Semantic Representation Learning of Scientific Literature based on Adaptive Feature and Graph Neural Network](https://arxiv.org/abs/2311.00296v2)** | 2026-07-09 | 7 pages |
+| **[GenDA: Generative Data Assimilation on Complex Urban Areas via Classifier-Free Diffusion Guidance](https://arxiv.org/abs/2601.11440v3)** | 2026-07-09 |  |
+| **[path_boost: A Python Package for Interpretable Graph-Level Prediction using Path-Based Gradient Boosting](https://arxiv.org/abs/2607.07935v1)** | 2026-07-08 | <details><summary>27 pa...</summary><p>27 pages, 4 figures, 5 tables. Code available at https://github.com/Claudio-Me/extended_path_boost and on PyPI (path-boost)</p></details> |
+| **[Homomorphism Indistinguishability Beyond Graphs: Relational Weisfeiler--Leman and Hypertree Width](https://arxiv.org/abs/2607.07934v1)** | 2026-07-08 |  |
+| **[A Graph Neural Network Model for Real-Time Gesture Recognition Based on sEMG Signals](https://arxiv.org/abs/2607.07850v1)** | 2026-07-08 |  |
 | **[Any-Dimensional Learning by Sampling](https://arxiv.org/abs/2607.07680v1)** | 2026-07-08 |  |
+| **[Graph-Regularized Deep Learning for EEG-Based Emotion Recognition with Psychologically-Grounded Label Structure](https://arxiv.org/abs/2607.07773v1)** | 2026-07-08 |  |
 | **[Asymmetric Focal Loss Improves Graph Neural Network Prediction of Drug-Drug Interactions](https://arxiv.org/abs/2607.07611v1)** | 2026-07-08 |  |
 | **[Low Latency GNN Accelerator for Quantum Error Correction](https://arxiv.org/abs/2603.22149v3)** | 2026-07-08 |  |
 | **[Stability of Flow Models for Graph Signals](https://arxiv.org/abs/2607.07510v1)** | 2026-07-08 | <details><summary>Submi...</summary><p>Submitted to the IEEE Transactions on Signal Processing</p></details> |
 | **[From Beats to Breaches:How Offensive AI Infers Sensitive User Information from Playlists](https://arxiv.org/abs/2605.04724v2)** | 2026-07-08 | <details><summary>This ...</summary><p>This paper is accepted at IEEE EuroS&P 2026</p></details> |
-| **[Structural Adversarial Attacks on Relational Deep Learning under Integrity Constraints](https://arxiv.org/abs/2607.07089v1)** | 2026-07-08 | <details><summary>To be...</summary><p>To be presented at the VLDB Workshop AI for Databases</p></details> |
-| **[Transferable FB-GNN-MBE Framework for Potential Energy Surfaces: Data-Adaptive Transfer Learning in Deep Learned Many-Body Expansion Theory](https://arxiv.org/abs/2604.09320v2)** | 2026-07-08 | <details><summary>Under...</summary><p>Under review with The Journal of Chemical Physics. Main text: 23 pages, 11 figures, and 1 table. Supplementary Materials: 29 pages, 6 figures, 15 tables, 4 pseudo-algorithms</p></details> |
-| **[Generative Diffusion Models of Stochastic Graph Signals](https://arxiv.org/abs/2607.06833v1)** | 2026-07-07 | <details><summary>Submi...</summary><p>Submitted to and under review by IEEE Transactions on Signal Processing</p></details> |
-| **[Hardware-aware Graph Neural Networks prunning for embedded event-based vision](https://arxiv.org/abs/2607.06739v1)** | 2026-07-07 |  |
-| **[CAIRN: Cross-Room 3D Scene Understanding with Topology-Aware Large Multimodal Models](https://arxiv.org/abs/2607.06534v1)** | 2026-07-07 | <details><summary>Proje...</summary><p>Project Page: https://oceansdepp.github.io/cairn_web/</p></details> |
-| **[Visual graphs for image classification: does the structure affect performance?](https://arxiv.org/abs/2607.06295v1)** | 2026-07-07 |  |
-| **[GraphAllocBench: A Flexible Benchmark for Preference-Conditioned Multi-Objective Policy Learning](https://arxiv.org/abs/2601.20753v4)** | 2026-07-07 |  |
-| **[Multimodal Molecular Representation Learning with Graph Neural Networks, Deep & Cross Networks, and SMILES Embeddings](https://arxiv.org/abs/2607.05736v1)** | 2026-07-07 | 14 pages, 3 figures |
-| **[Counterfactual Methods for Detecting Unfairness in Anti-Money Laundering Algorithms](https://arxiv.org/abs/2607.05101v1)** | 2026-07-06 |  |
-| **[FAST: A Holistic Framework for Optimizing Memory-I/O, Computation, and Sampling in Temporal GNN Training](https://arxiv.org/abs/2607.05095v1)** | 2026-07-06 |  |
 
 ## Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MatBind: A Shared Embedding Space for Multimodal Materials Characterization](https://arxiv.org/abs/2607.08470v1)** | 2026-07-09 | <details><summary>24 pa...</summary><p>24 pages, 12 figures, submitted to npj computational material</p></details> |
+| **[Contrastive Order Learning: A General Framework for Ordinal Regression](https://arxiv.org/abs/2607.08109v1)** | 2026-07-09 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
+| **[MetaHGNIE: Meta-Path Induced Hypergraph Contrastive Learning in Heterogeneous Knowledge Graphs](https://arxiv.org/abs/2512.12477v2)** | 2026-07-09 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Artificial Intelligence</p></details> |
+| **[Mixture of Enhanced-View Experts for Multi-Query Vehicle ReID and A Large-Scale Benchmark](https://arxiv.org/abs/2607.08085v1)** | 2026-07-09 |  |
 | **[FDRMFL: Multimodal Federated Feature Extraction Model Based on Information Maximization and Contrastive Learning](https://arxiv.org/abs/2512.02076v2)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted author manuscript; published version DOI: 10.1016/j.asoc.2026.115874</p></details> |
 | **[A Theory of Contrastive Learning with Natural Images](https://arxiv.org/abs/2607.07470v1)** | 2026-07-08 | ICML 2026 |
 | **[CarbonCLIP: Enhance Carbon Prediction from Satellite Imagery via Integrated Street-View Semantics and Temporal Context Training](https://arxiv.org/abs/2607.07292v1)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted by IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. 21 pages, 6 figures, 9 tables</p></details> |
@@ -75,14 +79,12 @@ labels: documentation
 | **[Signed-Graph Recommendation as Structural Consistency Maximization](https://arxiv.org/abs/2607.05952v1)** | 2026-07-07 |  |
 | **[Is Domain Adaptation Always Helpful? A Frozen-Backbone Study of Cross-Domain Sentiment Transfer](https://arxiv.org/abs/2607.05937v1)** | 2026-07-07 |  |
 | **[CMDR: Contextual Multimodal Document Retrieval](https://arxiv.org/abs/2607.05927v1)** | 2026-07-07 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026; project page: https://cmdr-bench.github.io/</p></details> |
-| **[$C^3$ASD: Multi-Level Consistency-Driven Representation Learning](https://arxiv.org/abs/2607.03018v2)** | 2026-07-07 | ECCV 2026 |
-| **[Partial Symmetry Detection for 3D Geometry using Contrastive Learning with Geodesic Point Cloud Patches](https://arxiv.org/abs/2312.08230v2)** | 2026-07-06 | 8 pages, 8 figures |
-| **[MASCA: LLM based-Multi Agents System for Credit Assessment](https://arxiv.org/abs/2507.22758v2)** | 2026-07-06 | <details><summary>Accep...</summary><p>Accepted at NeurIPS GenAI In Finance Workshop</p></details> |
-| **[A Transformer-Based Contrastive Learning Approach for Few-Shot Sign Language Recognition](https://arxiv.org/abs/2204.02803v2)** | 2026-07-06 |  |
 
 ## Multimodal Fusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SHAP-Weighted Cross-Modal Expert Fusion for Emotion and Sentiment Recognition: Evidence and Limits](https://arxiv.org/abs/2607.08573v1)** | 2026-07-09 |  |
+| **[VSRo-200: A Romanian Visual Speech Recognition Dataset for Studying Supervision and Multimodal Robustness](https://arxiv.org/abs/2607.08112v1)** | 2026-07-09 |  |
 | **[AT-Attn: Temporal-Aware Cross-Attention for Longitudinal Multimodal Alzheimer's Disease Diagnosis](https://arxiv.org/abs/2607.07091v1)** | 2026-07-08 | <details><summary>Submi...</summary><p>Submitted to IEEE BIBM 2026. 8 pages, 4 figures</p></details> |
 | **[SAC$^2$-Net: Semantic Anchoring and Complementary-Consensus Fusion for Multimodal Micro-Expression Recognition](https://arxiv.org/abs/2606.25542v2)** | 2026-07-08 |  |
 | **[Latent graph encoding of multimodal neuroimaging features with generative AI architectures](https://arxiv.org/abs/2607.07027v1)** | 2026-07-08 | <details><summary>6 pag...</summary><p>6 pages, accepted in IEEE International Conference on Image Processing (ICIP) 2026</p></details> |
@@ -96,8 +98,6 @@ labels: documentation
 | **[Multimodal Fusion for Fine-Grained Classification of Breast Fibroadenoma and Phyllodes Tumors](https://arxiv.org/abs/2607.02091v1)** | 2026-07-02 |  |
 | **[LLM-Empowered Multimodal Fusion Framework for Autonomous Driving: Semantic Enhancement and Channel-Adaptive Design](https://arxiv.org/abs/2607.01772v1)** | 2026-07-02 | <details><summary>6 pag...</summary><p>6 pages, 4 figures. Accepted by 2026 IEEE 37th International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)</p></details> |
 | **[Hybrid Diffusion Transformer for Instruction-Guided Audio Editing via Rectified Flow](https://arxiv.org/abs/2606.20101v2)** | 2026-07-01 |  |
-| **[BlowLive: Blow-Based Multi-Factor Biometrics with Liveness Detection and Revocability](https://arxiv.org/abs/2606.25998v2)** | 2026-07-01 |  |
-| **[GaussianFusion: Unified 3D Gaussian Representation for Multi-Modal Fusion Perception](https://arxiv.org/abs/2607.00746v1)** | 2026-07-01 | ICLR 2026 |
 
 ## Information Fusion
 | **Title** | **Date** | **Comment** |
