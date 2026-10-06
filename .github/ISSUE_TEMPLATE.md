@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 06, 2026
+title: Latest 15 Papers - October 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,82 +7,84 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Beyond Idealized Orbits: Realistic Network Topology and Spatio-Temporal Traffic Emulation for LEO Satellite Constellations](https://arxiv.org/abs/2610.03623v1)** | 2026-10-02 |  |
-| **[Jagged AI in Scientific Peer Review: Evidence from POMP Data Analysis](https://arxiv.org/abs/2605.07855v3)** | 2026-10-02 |  |
-| **[Most-Recent Anchoring with Recurrent Ordering for Time Series Forecasting](https://arxiv.org/abs/2610.03494v1)** | 2026-10-02 |  |
-| **[Dual-Context Analog Retrieval for Time Series Forecasting](https://arxiv.org/abs/2610.03491v1)** | 2026-10-02 |  |
-| **[Causal Representation Learning with Instantaneous and Lagged Relations via Nonstationarity](https://arxiv.org/abs/2610.03452v1)** | 2026-10-02 | <details><summary>46 pa...</summary><p>46 pages, 6 figures, 16 tables</p></details> |
-| **[The Investment Acceleration Principle Revisited by means of a Neural Network](https://arxiv.org/abs/2610.03282v1)** | 2026-10-02 | <details><summary>7 pag...</summary><p>7 pages, 10 figures, post-print</p></details> |
-| **[The Whittle likelihood for mixed models with application to groundwater level time series](https://arxiv.org/abs/2512.20810v2)** | 2026-10-02 | <details><summary>37 pa...</summary><p>37 pages, 13 figures, 3 tables, 2 appendices</p></details> |
-| **[MASCIT: A Mask-Aware State Space Classifier for Naturally Irregular Time Series](https://arxiv.org/abs/2609.34409v2)** | 2026-10-02 | <details><summary>accep...</summary><p>accepted at APIEMS 2026</p></details> |
-| **[TSGuard: A Real-Time Framework for Detecting and Imputing Missing Data in Streaming Time Series](https://arxiv.org/abs/2610.03147v1)** | 2026-10-02 | <details><summary>The 3...</summary><p>The 35th ACM International Conference on Information and Knowledge Management (CIKM '26), November 07--11, 2026, Rome, Italy</p></details> |
-| **[Trading Strategy Optimization via Textual Gradient](https://arxiv.org/abs/2610.03128v1)** | 2026-10-02 |  |
-| **[Learning Transferable Policies from Action-free Time Series Through Dynamical Embeddings](https://arxiv.org/abs/2610.03065v1)** | 2026-10-02 |  |
-| **[DIVINE: Simple Cross-Market Stock Pretraining via Diverse Indicator Reconstruction](https://arxiv.org/abs/2610.02866v1)** | 2026-10-02 |  |
-| **[On Unlearning for Time-series Forecasting](https://arxiv.org/abs/2610.02865v1)** | 2026-10-02 | 22 pages |
-| **[Efficient conformal prediction intervals for time series: Online PID-Expert aggregation](https://arxiv.org/abs/2610.02777v1)** | 2026-10-02 |  |
-| **[A Two-Stage Cascade for Near-Real-Time Forest Anomaly Detection from Sentinel-1 SAR Time Series](https://arxiv.org/abs/2610.02763v1)** | 2026-10-02 |  |
+| **[Inverse Cross-spectral Neural Networks for Multivariate Time Series](https://arxiv.org/abs/2610.06630v1)** | 2026-10-05 |  |
+| **[Normality Constraint Learning: Adapting Foundation Models for Time Series Anomaly Detection](https://arxiv.org/abs/2610.06453v1)** | 2026-10-05 | 43 pages, 15 figures |
+| **[EMG-FM-Bench: A Comprehensive Benchmark for Foundation Model Transfer and Adaptation on Electromyography](https://arxiv.org/abs/2610.06450v1)** | 2026-10-05 |  |
+| **[Time-series Foundation Models for Predictive Control: The Role of Excitation](https://arxiv.org/abs/2610.06447v1)** | 2026-10-05 | <details><summary>Accep...</summary><p>Accepted at the TS-LIMITS Workshop at NeurIPS 2026</p></details> |
+| **[Function-Valued Causal Influence in Nonlinear Time Series](https://arxiv.org/abs/2605.26408v3)** | 2026-10-05 | <details><summary>26 pa...</summary><p>26 pages, 6 tables, 8 figures</p></details> |
+| **[In-Context Time Series Classification with Random Convolutional Features](https://arxiv.org/abs/2607.19234v2)** | 2026-10-05 |  |
+| **[Portmanteau Goodness-of-Fit Tests in the Presence of Simple, Mixed, and Multiple Seasonal Autocorrelation](https://arxiv.org/abs/2609.32381v2)** | 2026-10-05 |  |
+| **[Trajectory-Guided Tokenization of Complex CSI for Wi-Fi Sensing](https://arxiv.org/abs/2610.06288v1)** | 2026-10-05 |  |
+| **[Chronax: A Jax Library for Forecasting and Conformal Inference](https://arxiv.org/abs/2604.16719v2)** | 2026-10-05 | <details><summary>Adds ...</summary><p>Adds an author and corrects references</p></details> |
+| **[Anlu: Enabling In-Context Time Series Anomaly Detection in Foundation Models via Counterfactual Supervision](https://arxiv.org/abs/2610.06180v1)** | 2026-10-05 |  |
+| **[TempusBench: An Evaluation Framework for Time-Series Forecasting](https://arxiv.org/abs/2604.11529v3)** | 2026-10-05 | <details><summary>Techn...</summary><p>Technical report. Adds authors and corrects references</p></details> |
+| **[GARCH copulas, v-transforms and D-vines for stochastic volatility](https://arxiv.org/abs/2408.07025v3)** | 2026-10-05 |  |
+| **[TIGER: Time-Series Classification with In-Context-Learning Gated Ensemble of Representations](https://arxiv.org/abs/2610.06156v1)** | 2026-10-05 |  |
+| **[Learning-to-Defer in Non-Stationary Time Series via Switching State-Space Models](https://arxiv.org/abs/2601.22538v4)** | 2026-10-05 |  |
+| **[A Multimodal Sequence-to-Sequence Model for Cross-Subject Prediction of Brain Responses to Naturalistic Stimuli](https://arxiv.org/abs/2507.18104v3)** | 2026-10-05 | <details><summary>Subst...</summary><p>Substantially revised manuscript with new analyses, expanded cross-subject evaluation, and updated figures</p></details> |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ANT: A Multi-Granularity Network Traffic Dataset and Benchmark for Agents Behavior Auditing](https://arxiv.org/abs/2610.06514v1)** | 2026-10-05 |  |
+| **[Finite State Machine-Based Traffic Orchestration for Multi-Engine Analysis Platforms](https://arxiv.org/abs/2610.05788v1)** | 2026-10-05 |  |
+| **[Answer with Evidence: Consistency-Aware Grounded Visual Question Answering for Roadside Traffic Scenes](https://arxiv.org/abs/2610.05274v1)** | 2026-10-04 | 14 pages, 7 figures |
+| **[Bayesian Markov Chain Monte Carlo-Based Simultaneous Speed Prediction Model for Heterogeneous Traffic on Urban Primary Roads](https://arxiv.org/abs/2610.05027v1)** | 2026-10-04 | <details><summary>Total...</summary><p>Total Number of Pages: 20</p></details> |
+| **[RepTC: Representation-Aware Optimization for Efficient Traffic Classification on Edge IoT Devices](https://arxiv.org/abs/2610.04784v1)** | 2026-10-03 | <details><summary>17 pa...</summary><p>17 pages, 10 figures, 13 tables</p></details> |
+| **[Segment Routing Traffic Engineering with Time-Based Reconfiguration Constraints](https://arxiv.org/abs/2610.04759v1)** | 2026-10-03 | <details><summary>Accep...</summary><p>Accepted for publication in the IEEE LATINCOM 2026 - IEEE Latin-American Conference on Communications 2026. This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible</p></details> |
+| **[Carbon Pricing in Traffic Networks](https://arxiv.org/abs/2508.09280v2)** | 2026-10-03 | 45 pages, 7 figures |
+| **[FLAT: Smoothing the Rugged Landscape for Learnable, Sample-Efficient Traffic Calibration](https://arxiv.org/abs/2610.04337v1)** | 2026-10-03 | <details><summary>9 pag...</summary><p>9 pages, 28 figures. Code and cache: https://github.com/QianyHP/FLAT-calibration</p></details> |
+| **[EnvelopeTC: Hierarchical Intra-Path Learning for Adaptive Traffic Control](https://arxiv.org/abs/2605.09473v2)** | 2026-10-02 | <details><summary>Publi...</summary><p>Published in: 2026 IEEE International Conference on Joint Cloud Computing (JCC),Conference Location: Fukuoka, Japan</p></details> |
 | **[Beyond Idealized Orbits: Realistic Network Topology and Spatio-Temporal Traffic Emulation for LEO Satellite Constellations](https://arxiv.org/abs/2610.03623v1)** | 2026-10-02 |  |
 | **[The Effects of Air-Conditioning and Road-Traffic Noise on Perceived, Cognitive, and EEG Responses in a University Classroom](https://arxiv.org/abs/2610.03210v1)** | 2026-10-02 | 28 pages,14 figures |
 | **[CoMemNet: A Continual Memory Network with Drift-Aware Sampling for Traffic Prediction](https://arxiv.org/abs/2605.05738v2)** | 2026-10-02 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Computational Social Systems (TCSS)</p></details> |
 | **[LLM-Guided Reinforcement Learning with Representative Agents for Traffic Modeling](https://arxiv.org/abs/2511.06260v2)** | 2026-10-02 |  |
 | **[SceneFactory-3D: Lifting 2D Traffic Scenes into 3D Physical Counterfactuals for Scalable Physically Grounded Safety Evaluation](https://arxiv.org/abs/2610.02874v1)** | 2026-10-02 |  |
 | **[Optimal Oblivious Load-Balancing for Sparse Traffic in Large-Scale Satellite Networks](https://arxiv.org/abs/2601.02537v6)** | 2026-10-01 | <details><summary>Publi...</summary><p>Published in IEEE INFOCOM 2026 (https://ieeexplore.ieee.org/document/11571543)</p></details> |
-| **[Teger: Spatiotemporal Covariance for Probabilistic Traffic Forecasting](https://arxiv.org/abs/2605.18068v2)** | 2026-10-01 | <details><summary>Accep...</summary><p>Accepted in TS-LIMITS @ NeurIPS 2026</p></details> |
-| **[Prediction is Better than Detection: Traffic Congestion Control using Drones](https://arxiv.org/abs/2609.39637v1)** | 2026-09-30 | 7 pages, 9 figures |
-| **[UniST-Pred: A Robust Unified Framework for Spatio-Temporal Traffic Forecasting in Transportation Networks Under Disruptions](https://arxiv.org/abs/2602.14049v2)** | 2026-09-30 |  |
-| **[Spatio-Temporal Partial Sensing Forecast for Long-term Traffic](https://arxiv.org/abs/2408.02689v3)** | 2026-09-30 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research, 2025</p></details> |
-| **[TrafficSignBench: Rule-Centric Closed-Loop Evaluation of Traffic-Sign Compliance in Autonomous Driving](https://arxiv.org/abs/2609.38463v1)** | 2026-09-29 |  |
-| **[She Spoofed Sea Ships by the Sea Shore: Measuring Large-Scale GPS Spoofing in Global Maritime Traffic](https://arxiv.org/abs/2609.37676v1)** | 2026-09-29 | <details><summary>20 pa...</summary><p>20 pages, 19 figures, To appear in IEEE Symposium on Security and Privacy 2027 (IEEE S&P)</p></details> |
-| **[NetLexicon: Learning Discrete Behavioral Representations for Encrypted Web Traffic Analysis](https://arxiv.org/abs/2609.37672v1)** | 2026-09-29 |  |
-| **[VLALight: A Vision-Language-Action Model for Traffic Signal Control](https://arxiv.org/abs/2609.36934v1)** | 2026-09-29 |  |
-| **[GATE: GPU-Accelerated Traffic Engineering for the WAN](https://arxiv.org/abs/2605.01748v2)** | 2026-09-29 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Beyond Trained Models: Compiling GNNs for a Sound Explainer Benchmark](https://arxiv.org/abs/2610.03526v1)** | 2026-10-02 | Preprint |
-| **[PEACE: Joint Embeddings of DSP Effects Code and Audio](https://arxiv.org/abs/2610.03405v1)** | 2026-10-02 | <details><summary>Accep...</summary><p>Accepted at ISMIR 2026. 10 pages, 4 tables, 3 figures. This arXiv version contains minor corrections and clarifications relative to the camera-ready version</p></details> |
-| **[A PyTorch Library for Hyperspectral Image Models: Technical Report](https://arxiv.org/abs/2609.39871v2)** | 2026-10-02 | <details><summary>Docum...</summary><p>Documentation and benchmark library for hyperspectral image models</p></details> |
-| **[ChronoSpike: An Adaptive Spiking Graph Neural Network for Dynamic Graphs](https://arxiv.org/abs/2602.01124v4)** | 2026-10-02 | <details><summary>Accep...</summary><p>Accepted at the Fifth Learning on Graphs Conference (LoG 2026)</p></details> |
-| **[Fixed Points Without Fixed Diffusion: Implicit Neural Sheaves for Convergent Test-Time Computation](https://arxiv.org/abs/2609.30277v2)** | 2026-10-01 | <details><summary>Accep...</summary><p>Accepted at the 5th Learning on Graphs Conference (LoG 2026)</p></details> |
-| **[Effective Resistance and Graph Neural Network Reliability in Tissue-Specific Interactomes](https://arxiv.org/abs/2610.02175v1)** | 2026-10-01 | <details><summary>Accep...</summary><p>Accepted at IEEE BIBM (Doctoral Forum)</p></details> |
-| **[Higher-Order Positional Encodings for Graph Representation Learning](https://arxiv.org/abs/2610.01903v1)** | 2026-10-01 | <details><summary>Accep...</summary><p>Accepted at the Fifth Learning on Graphs Conference (LoG 2026)</p></details> |
-| **[Graph Hierarchical Recurrence for Long-Range Generalization](https://arxiv.org/abs/2605.18387v2)** | 2026-10-01 |  |
-| **[Roto-translated Local Coordinate Frames For Interacting Dynamical Systems](https://arxiv.org/abs/2110.14961v4)** | 2026-10-01 | <details><summary>In Ne...</summary><p>In NeurIPS 2021. Source code: https://github.com/mkofinas/locs</p></details> |
-| **[Equivariant Sheaf Neural Networks: Learning Geometric Transport on Graphs](https://arxiv.org/abs/2608.28853v3)** | 2026-10-01 |  |
-| **[Learned Suppression for 3D Keypoint Detection with a Graph-Transformer Backbone](https://arxiv.org/abs/2605.15088v2)** | 2026-10-01 | <details><summary>Accep...</summary><p>Accepted to ACCV 2026. 17 pages, 4 figures, 4 tables</p></details> |
-| **[ZAGNet: Zone-Aware Graph Aggregation Network for Patient-Level Lung Ultrasound Diagnosis](https://arxiv.org/abs/2610.02263v1)** | 2026-10-01 | <details><summary>The 2...</summary><p>The 2026 IEEE International Ultrasonics Symposium (IUS)</p></details> |
-| **[Signed Graph Pre-Training and Prompt Learning](https://arxiv.org/abs/2609.25722v2)** | 2026-10-01 | <details><summary>26 pa...</summary><p>26 pages, 3 figures, Accepted to Learning on Graphs Conference (LoG 2026)</p></details> |
-| **[Reformulation-Contrastive Learning for Mixed Integer Programs](https://arxiv.org/abs/2610.00730v1)** | 2026-09-30 |  |
-| **[WOMBAT: Whitebox Oracle for Molecular Benchmarking and Attribution Testing](https://arxiv.org/abs/2610.00713v1)** | 2026-09-30 |  |
+| **[Aligning Multimodal Patient Evidence with Biomedical Knowledge Graphs for Clinical LLMs](https://arxiv.org/abs/2610.06685v1)** | 2026-10-05 |  |
+| **[Inverse Cross-spectral Neural Networks for Multivariate Time Series](https://arxiv.org/abs/2610.06630v1)** | 2026-10-05 |  |
+| **[TripleBound: Triplet-Guided Heterogeneous Graph Learning for Microservice Decomposition](https://arxiv.org/abs/2609.11212v2)** | 2026-10-05 | <details><summary>13 pa...</summary><p>13 pages, 4 figures. Replication package available on GitHub</p></details> |
+| **[GPlaceRL: An Open-Source Graph Reinforcement Learning Framework for Detailed Placement](https://arxiv.org/abs/2610.06489v1)** | 2026-10-05 |  |
+| **[FairProp: Fair Node Representation Learning via Differentiable Propagation Layers](https://arxiv.org/abs/2610.06484v1)** | 2026-10-05 |  |
+| **[Stability-Shaped Deep Graph Learning](https://arxiv.org/abs/2610.06344v1)** | 2026-10-05 |  |
+| **[Modelling magnetic material properties with uncertainty-aware neural networks](https://arxiv.org/abs/2606.11870v2)** | 2026-10-05 | published |
+| **[Graph Neural Network-Driven Deep Reinforcement Learning for Scalable RIS Allocation](https://arxiv.org/abs/2610.06295v1)** | 2026-10-05 |  |
+| **[Answer Set Networks: Casting Answer Set Programming into Deep Learning](https://arxiv.org/abs/2412.14814v2)** | 2026-10-05 | 16 pages, 9 figures |
+| **[HardCore Generation: Generating Hard UNSAT Problems for Data Augmentation](https://arxiv.org/abs/2409.18778v2)** | 2026-10-05 |  |
+| **[Joint Precision Neural Networks: Task-Aware Dependency and Predictive Learning](https://arxiv.org/abs/2610.06023v1)** | 2026-10-05 |  |
+| **[Physics-informed GNN for medium-high voltage AC power flow with edge-aware attention and line search correction operator](https://arxiv.org/abs/2509.22458v3)** | 2026-10-05 | <details><summary>Publi...</summary><p>Published in ICASSP 2026. 5 pages, 2 figures. Code available at https://github.com/Kimchangheon/PIGNN-Attn-LS</p></details> |
+| **[Global Communication or Graph-Specific Memory?](https://arxiv.org/abs/2610.05874v1)** | 2026-10-05 |  |
+| **[Debiasing Message Passing to Mitigate Popularity Bias in GNN-based Collaborative Filtering](https://arxiv.org/abs/2605.11145v2)** | 2026-10-05 |  |
+| **[GNN-CB: A Graph Neural Network Competition Benchmark for Human and LLM Evaluation](https://arxiv.org/abs/2610.05387v1)** | 2026-10-04 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2026. 28 pages, 16 figures, 4 tables. Benchmark and leaderboards: https://basiralab.github.io/GNN-CB/</p></details> |
 
 ## Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Causal Representation Learning with Instantaneous and Lagged Relations via Nonstationarity](https://arxiv.org/abs/2610.03452v1)** | 2026-10-02 | <details><summary>46 pa...</summary><p>46 pages, 6 figures, 16 tables</p></details> |
-| **[Beyond Entropy: Self-Diagnostic Multi-Role Token Optimization for Video Reasoning](https://arxiv.org/abs/2610.03400v1)** | 2026-10-02 | <details><summary>19 pa...</summary><p>19 pages, 6 figures, under review</p></details> |
-| **[Cross-Lingual Alignment for Decoder-Only Models using MoE Routers](https://arxiv.org/abs/2610.01921v2)** | 2026-10-02 |  |
-| **[Differentiable Koopman Operator for Contrastive Learning on Dynamic Graphs](https://arxiv.org/abs/2610.02990v1)** | 2026-10-02 |  |
-| **[Identify then Realize: Contrastive Learning of Latent Port-Hamiltonian Dynamics from Partial Observations](https://arxiv.org/abs/2605.16682v2)** | 2026-10-01 | v2 |
-| **[Cryo-Bench: Benchmarking Foundation Models for Cryosphere Mapping](https://arxiv.org/abs/2603.01576v5)** | 2026-10-01 |  |
-| **[Learning from Failure: Leveraging Unreliable Predictions in Semi-Supervised Real-World Adverse Weather Removal](https://arxiv.org/abs/2610.02051v1)** | 2026-10-01 |  |
-| **[Smoother Flow Matching via Contrastive Trajectory Repulsion](https://arxiv.org/abs/2610.01408v1)** | 2026-10-01 | 18 pages, 5 figures |
-| **[Latent-Action-Guided Vision-Language Contrastive Learning for Surgical Interaction Recognition](https://arxiv.org/abs/2607.19889v4)** | 2026-10-01 |  |
-| **[DeBERTa-ConPara: Attack-Aware and Deployment-Realistic Detection of AI-Generated Text](https://arxiv.org/abs/2610.00883v1)** | 2026-10-01 | <details><summary>Accep...</summary><p>Accepted at AACL-IJCNLP 2026 (main conference). 9 pages plus appendix. Code and checkpoint: https://github.com/MohamedMady19/deberta-conpara, https://huggingface.co/mohamedmady/deberta-conpara</p></details> |
-| **[Reformulation-Contrastive Learning for Mixed Integer Programs](https://arxiv.org/abs/2610.00730v1)** | 2026-09-30 |  |
-| **[SelfTTS: cross-speaker style transfer through explicit embedding disentanglement and self-refinement using self-augmentation](https://arxiv.org/abs/2603.22252v2)** | 2026-09-30 | Submitted to OJSP |
-| **[Crab: Multi Layer Contrastive Supervision to Improve Speech Emotion Recognition Under Both Acted and Natural Speech Condition](https://arxiv.org/abs/2603.23673v2)** | 2026-09-30 | <details><summary>Submi...</summary><p>Submitted to Speech Communication</p></details> |
-| **[Seeing as Humans Do: Learning from Motion to Segment Anything Without Supervision](https://arxiv.org/abs/2609.39785v1)** | 2026-09-30 | <details><summary>Publi...</summary><p>Published at ECCV 2026. Includes supplementary material. Code: https://github.com/360CVGroup/MoSA</p></details> |
-| **[Robust Transfer Learning for Paper ECG Recognition](https://arxiv.org/abs/2609.39581v1)** | 2026-09-30 |  |
+| **[NeuroCBIR: A Fast and Accurate Image Retrieval System for Whole-Brain and Region-Specific MRI](https://arxiv.org/abs/2610.06502v1)** | 2026-10-05 | <details><summary>Neuro...</summary><p>Neuroimaging, Content-Based Image Retrieval, MRI, Zero-Shot Learning</p></details> |
+| **[Representation Disentanglement for Fair Chest X-Ray Diagnosis](https://arxiv.org/abs/2610.06041v1)** | 2026-10-05 | <details><summary>submi...</summary><p>submit to ICASSP 2027</p></details> |
+| **[fMRI-TAMCL: Text-Anchored Supervised Multimodal Contrastive Learning for fMRI-Based Brain Disorder Classification](https://arxiv.org/abs/2610.05880v1)** | 2026-10-05 | 10 pages, 6 figures |
+| **[Mitigating Bias in Automated Essay Scoring for ESL Learners via Contrastive Learning](https://arxiv.org/abs/2601.16724v2)** | 2026-10-05 |  |
+| **[From Pixels, Without Pre-training: Joint Generative and Self-Supervised Representation Learning in One Model](https://arxiv.org/abs/2610.05711v1)** | 2026-10-05 |  |
+| **[MCA: Modality Composition Awareness for Robust Composed Multimodal Retrieval](https://arxiv.org/abs/2510.15543v2)** | 2026-10-05 | <details><summary>EMNLP...</summary><p>EMNLP 2026 Main Conference</p></details> |
+| **[Lend Me Your Eyes: Instruction-Aware Text Embeddings via Attention Relay](https://arxiv.org/abs/2610.05564v1)** | 2026-10-04 |  |
+| **[Cross-Modal Contrastive Learning for the Retrieval of Immunotherapy-Associated Molecular Signatures from Histopathology](https://arxiv.org/abs/2610.05157v1)** | 2026-10-04 | <details><summary>Accep...</summary><p>Accepted to MICCAI 2026 CaPTion Workshop</p></details> |
+| **[FATE: Frame-Level Audio-Visual Temporal Embedding](https://arxiv.org/abs/2608.01310v2)** | 2026-10-04 |  |
+| **[TACoS: Weakly Supervised Learning of Two-Dimensional Materials from Scribble Annotations to Precise Segmentation](https://arxiv.org/abs/2607.07169v2)** | 2026-10-04 | 35 pages, 7 figures |
+| **[Bridging the EHR Divide: Asymmetric Contrastive Learning for Cross-National Medical Representation Transfer](https://arxiv.org/abs/2610.04946v1)** | 2026-10-04 |  |
+| **[Enhancing Long-Video VLM Embeddings with Query-Aware Streaming Latent Reasoning](https://arxiv.org/abs/2610.04864v1)** | 2026-10-04 |  |
+| **[PIT-GCL: Protein Interaction using Topological Graph Contrastive Learning](https://arxiv.org/abs/2610.04850v1)** | 2026-10-04 | 12pages, 6figures |
+| **[Cluster Validation Indices as Self-Supervised Objectives for Text Representation Learning](https://arxiv.org/abs/2610.04830v1)** | 2026-10-04 |  |
+| **[DeNoise: Learning Robust Graph Representations for Unsupervised Graph-Level Anomaly Detection](https://arxiv.org/abs/2511.04086v2)** | 2026-10-03 | <details><summary>Withd...</summary><p>Withdrawn by the authors because issues were identified in the original data and experimental evaluation, requiring substantial revisions that affect the reported results and conclusions.</p></details> |
 
 ## Multimodal Fusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Anatomy-aware Fine-grained Multimodal Fusion for Laryngopharyngeal Cancer T-Staging Prediction Using CT and Radiology Report](https://arxiv.org/abs/2610.06837v1)** | 2026-10-05 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Medical Imaging (IEEE TMI)</p></details> |
+| **[FedMHAR: Federated Multimodal Human Activity Recognition using Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2609.33492v2)** | 2026-10-03 |  |
 | **[Architecture-Dependent Fusion Pathways in MLLMs](https://arxiv.org/abs/2610.03289v1)** | 2026-10-02 |  |
 | **[Multimodal Ambivalence/Hesitancy Recognition in Videos for Personalized Digital Health Interventions](https://arxiv.org/abs/2604.11730v5)** | 2026-10-02 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, ACII 2026. arXiv admin note: substantial text overlap with arXiv:2505.19328</p></details> |
 | **[GAANet: Global-guided Asymmetric Attention Network for Audio-Visual Speech Separation](https://arxiv.org/abs/2610.02752v1)** | 2026-10-02 | <details><summary>Accep...</summary><p>Accepted at the 2026 IEEE International Conference on Multimedia and Expo (ICME 2026). 6 pages, 5 figures</p></details> |
@@ -93,11 +95,9 @@ labels: documentation
 | **[ITO: Multi-View Alignment and Training-Time Fusion for Image-Text Pretraining](https://arxiv.org/abs/2603.02767v4)** | 2026-09-30 |  |
 | **[Deep Multimodal Fusion Detection through Spatial Mask and Channel Competition](https://arxiv.org/abs/2608.02092v4)** | 2026-09-29 |  |
 | **[Beyond Multimodal Alignment: Shared Physical Representations Across Sensors and Action Orders](https://arxiv.org/abs/2608.19492v2)** | 2026-09-27 |  |
-| **[Federated Multi-Modal Human Activity Recognition using Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2609.33492v1)** | 2026-09-27 |  |
 | **[NutriVision: Ingredient-Conditioned Fusion and Prediction for Single-Image Food Nutrition Estimation](https://arxiv.org/abs/2609.33076v1)** | 2026-09-27 |  |
 | **[Supervised Deep Multimodal Matrix Factorization for Interpretable Brain Network Analysis](https://arxiv.org/abs/2605.13312v2)** | 2026-09-25 |  |
 | **[Improving Visual Sensitivity of LLMs on Multimodal Machine Translation with Metric-based Loss Weighting](https://arxiv.org/abs/2609.31169v1)** | 2026-09-25 |  |
-| **[EmoZone-Talker: Regional Semantic Control of Audio-Driven 3DGS Talking Heads via Facial Action Units](https://arxiv.org/abs/2606.15848v2)** | 2026-09-25 |  |
 
 ## Information Fusion
 | **Title** | **Date** | **Comment** |
